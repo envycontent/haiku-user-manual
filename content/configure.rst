@@ -1,1 +1,16 @@
-Configure--------.. toctree::   :maxdepth: 2      
+Configure
+=========
+
+.. toctree::
+   :maxdepth: 2
+   
+   links.rst
+   Set_up_an_Alias__Give_a_Page_an_Alternate_Web_Address.rst
+   Aliases_-_Upload_a_CSV_file_of_Aliases.rst
+   Add_a_new_Category_for_News.rst
+   Remove_an_Alias.rst
+   Add_a_new_Category_for_Events.rst
+   Publications_-_Site_Setup.rst
+
+
+

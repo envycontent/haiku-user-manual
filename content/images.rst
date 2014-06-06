@@ -1,1 +1,9 @@
-Images======.. toctree::   :maxdepth: 2      sourcing_images.rst   Create_a_New_User_Account_on_the_Image_Management_System.rst
+
+Images
+======
+
+.. toctree::
+   :maxdepth: 2
+   
+   sourcing_images.rst
+   Create_a_New_User_Account_on_the_Image_Management_System.rst

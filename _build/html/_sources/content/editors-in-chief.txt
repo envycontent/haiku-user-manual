@@ -1,1 +1,20 @@
-Editors in Chief================.. toctree::   :maxdepth: 2      profiles.rst   images.rst   configure.rst   homepage.rst   users.rst   editorrights.rst   team.rst   research.rst   monitor.rst   informationarchitecture.rst
+
+Editors in Chief
+================
+
+.. toctree::
+   :maxdepth: 2
+   
+   profiles.rst
+   images.rst
+   configure.rst
+   homepage.rst
+   users.rst
+   editorrights.rst
+   team.rst
+   research.rst
+   monitor.rst
+   informationarchitecture.rst
+
+
+
