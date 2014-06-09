@@ -6,10 +6,8 @@ Editors in Chief
    :maxdepth: 2
    
    profiles.rst
-   images.rst
    configure.rst
    homepage.rst
-   users.rst
    editorrights.rst
    team.rst
    research.rst
