@@ -1,6 +1,6 @@
 
-How to edit:
-============
+How to edit...
+==============
 
 .. toctree::
    :maxdepth: 2
