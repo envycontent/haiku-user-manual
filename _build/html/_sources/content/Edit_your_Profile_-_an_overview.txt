@@ -7,18 +7,17 @@ Edit your Profile - an overview
 Log in
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354622885179.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403601511016.png
    :align: center
    
 
-1. Go to the Our Team section of the website.
-2. Click on the Log in link.
+Click on the **Log in** link.
 
 
 Single Sign-On Login
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354623085399.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403601600879.png
    :align: center
    
 
@@ -26,37 +25,37 @@ Enter your Single Sign-On Username and Password.
 
 
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354623179317.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403601635731.png
    :align: center
    
 
-Click on the Continue to button. 
+Click on the **Continue to** button. 
 
 
 Find your profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354623264620.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403601691484.png
    :align: center
    
 
-Find and click on your name to bring up your Profile.
+Go to the Our Team section and find your profile. 
 
 
 Empty profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354618047649.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403601983827.png
    :align: center
    
 
-To start editing your Profile click on the Edit button on the right hand side of the page.
+To start editing your Profile click on the **Edit my profile** button on the right hand side of the page.
 
 
 Select a section
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354618231784.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403602086034.png
    :align: center
    
 
@@ -64,30 +63,30 @@ Your Profile is divided up into sections:
 1. Contact information
 2. Your name and job title
 3. Work summary area
-Click on the Edit button in the section you would like to edit. This brings up the editing interface.
+The **Edit** button for each section appears when you place your cursor on that section. 
 
 
 Editing interface
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354619104107.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403602223773.png
    :align: center
    
 
 Enter you details into the boxes as appropriate. Click on the Save button once you have made your changes.
 
 See the tutorials:
-**Change your Name and Job Title** - https://msdweb.zendesk.com/entries/22327547-change-your-name-or-job-title-on-a-profile
-**Change you Contact Details** - https://msdweb.zendesk.com/entries/22327467-change-add-contact-details-on-your-profile
+**Change your Name and Job Title** 
+**Change you Contact Details**
 
 
 Save layout
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Edit_your_Profile_-_an_overview/media_1354620879597.png
+.. image:: images/Edit_your_Profile_-_an_overview/media_1403602262606.png
    :align: center
    
 
-After making changes to any part of your Profile click on the Save layout button on the top right of the screen.
+After making changes to any part of your Profile click on the **Save layout** button on the top right of the screen.
 
 

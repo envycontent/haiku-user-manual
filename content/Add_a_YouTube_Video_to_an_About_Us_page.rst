@@ -17,28 +17,36 @@ Find your YouTube video and copy the web address.
 Your About Us webpage
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1351599616812.png
+.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1403684826130.png
    :align: center
    
 
-Go to the About us page where you would like to embed the video and click on the Edit button on the blue toolbar at the top of the page. 
-
+Go to the About us page where you would like to embed the video and click on the **Edit** button on the toolbar at the top of the page. 
 
 
 Video link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1380287861092.png
+.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1403684890946.png
    :align: center
    
 
-Scroll down the page until you reach the Video link (YouTube) box which is located on the right hand side of the page. 
+Scroll down the page until you reach the **Video link (YouTube)** field on the right of the page. 
 Paste the web address of your YouTube video here.
-Save your changes - the save button is at the bottom of the page.
+
+
+Save your changes
+-------------------------------------------------------------------------------------------
+
+.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1403684982949.png
+   :align: center
+   
+
+Scroll down to the bottom of the page and click on the **Save** button. 
 
 
 
-.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1360054301498.png
+.. image:: images/Add_a_YouTube_Video_to_an_About_Us_page/media_1403685046300.png
    :align: center
    
 

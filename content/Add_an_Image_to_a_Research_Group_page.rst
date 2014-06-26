@@ -7,15 +7,15 @@ Shows you how to add an image to a Research Group page. Images must be 702 pixel
 Select edit mode
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1380184800011.png
+.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1403010427144.png
    :align: center
    
 
-Go to the Research section of your website and find the Research Group page you would like to edit. Click on edit on the tool bar at the top of the page to bring up the editing interface: 
+Go to the Research Group page. Click on **Edit** on the tool bar at the top of the page to bring up the editing interface: 
 
 
 
-.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1380184856235.png
+.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1403010479745.png
    :align: center
    
 
@@ -23,25 +23,25 @@ Go to the Research section of your website and find the Research Group page you 
 Add image
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1380184935535.png
+.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1403010519210.png
    :align: center
    
 
-Click on Upload new image on the right hand side of the page. 
+Click on **Browse...** under the Image heading. 
 
 
 
-.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1380186082826.png
+.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1403010608785.png
    :align: center
    
 
-Navigate to your image and click on Open.
+Navigate to your image and click on **Open**.
 
 
 Caption and copyright
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1380186169215.png
+.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1403010661221.png
    :align: center
    
 
@@ -52,7 +52,7 @@ Caption and copyright
 Save
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1380186312168.png
+.. image:: images/Add_an_Image_to_a_Research_Group_page/media_1403010687475.png
    :align: center
    
 

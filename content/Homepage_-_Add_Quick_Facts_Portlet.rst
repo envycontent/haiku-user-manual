@@ -7,27 +7,27 @@ The Quick Facts box provides you with a straighforward way to draw attention to 
 Select Portlets
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_Quick_Facts_Portlet/media_1363691819504.png
+.. image:: images/Homepage_-_Add_Quick_Facts_Portlet/media_1403080233012.png
    :align: center
    
 
-Go to your homepage and click on the Portlets link on the toolbar at the top of the page. 
+Go to your homepage. Click on **Portlets** on the toolbar at the top of the page. 
 
 
 Add Quick facts portlet
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_Quick_Facts_Portlet/media_1363692099051.png
+.. image:: images/Homepage_-_Add_Quick_Facts_Portlet/media_1403080348307.png
    :align: center
    
 
-The homepage (below the slideshow) is divided into three columns. Each column is represented on this page by a drop down list. Select the column where you would like your Quick facts portlet to display and click on the dropdown list. Click on Quick facts. 
+The homepage (below the slideshow) is divided into three columns. Each column is represented on this page by a drop down list. Select the column where you would like your Quick facts portlet to display and click on the dropdown list. Click on **Quick facts**. 
 
 
 Enter your Quick facts
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_Quick_Facts_Portlet/media_1363692227241.png
+.. image:: images/Homepage_-_Add_Quick_Facts_Portlet/media_1403080442269.png
    :align: center
    
 

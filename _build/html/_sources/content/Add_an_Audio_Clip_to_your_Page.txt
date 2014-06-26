@@ -17,26 +17,38 @@ Go to your clip on audioboo or SoundCloud and copy the web address.
 Edit page
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1383037761908.png
+.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1403014679679.png
    :align: center
    
 
-Go to the page where you would like to add an audio clip and click on Edit on the left hand side of the toolbar at the top of the page. 
+Go to the page where you would like to add an audio clip.
+Click on **Edit** on the toolbar at the top of the page. 
 
 
 Paste web address of clip
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1383037966968.png
+.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1403014501500.png
    :align: center
    
 
-Go to the Video link (youtube) box on the right hand side of the page and paste the web address of your audio clip. 
+Go to the **Video link (youtube)** box on the right hand side of the page and paste the web address of your audio clip. 
 Save your page - the Save button is at the bottom of the page. 
 
 
+Save page
+-------------------------------------------------------------------------------------------
 
-.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1383038027625.png
+.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1403014568070.png
+   :align: center
+   
+
+Scroll to the bottom of the page.
+Click on **Save**.
+
+
+
+.. image:: images/Add_an_Audio_Clip_to_your_Page/media_1403014638630.png
    :align: center
    
 

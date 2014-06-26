@@ -7,26 +7,17 @@ The tool bar at the top of the screen gives you access to the various editing fu
 Tool bar
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Contents__View_and_Edit_buttons/media_1350571787751.png
+.. image:: images/Contents__View_and_Edit_buttons/media_1403771679956.png
    :align: center
    
 
-When you Log In to your site your should see a dark blue tool bar at the screen. 
-If you can't see this look in the top right hand corner of the screen for a cog icon:
-
-
-
-.. image:: images/Contents__View_and_Edit_buttons/media_1350574290395.png
-   :align: center
-   
-
-Click on the cog icon to make your toolbar visible. 
+When you log in to your site and go to pages you have permission to edit you should see a toolbar at the top of the screen.
 
 
 View button
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Contents__View_and_Edit_buttons/media_1350572117592.png
+.. image:: images/Contents__View_and_Edit_buttons/media_1403771647534.png
    :align: center
    
 
@@ -37,7 +28,7 @@ If you are making changes to your webpage in the Editing or Contents interface y
 Edit button
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Contents__View_and_Edit_buttons/media_1350574887356.png
+.. image:: images/Contents__View_and_Edit_buttons/media_1403773141028.png
    :align: center
    
 
@@ -47,17 +38,17 @@ Clicking on the Edit button gives you access to the Editing interface of the pag
 Editing interface
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Contents__View_and_Edit_buttons/media_1350574916054.png
+.. image:: images/Contents__View_and_Edit_buttons/media_1403773171872.png
    :align: center
    
 
-You can now make changes to the different parts of your webpage. You will see that the Editing interface divides the webpage up into different sections. Tutorials are available on how to edit each section of your page.
+You can now make changes to the different parts of your webpage. 
 
 
 Contents button
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Contents__View_and_Edit_buttons/media_1350576124391.png
+.. image:: images/Contents__View_and_Edit_buttons/media_1403774413740.png
    :align: center
    
 
@@ -65,7 +56,7 @@ Clicking on the Contents button gives you a view of the page structure of the pa
 
 
 
-.. image:: images/Contents__View_and_Edit_buttons/media_1350578255501.png
+.. image:: images/Contents__View_and_Edit_buttons/research-groups.png
    :align: center
    
 

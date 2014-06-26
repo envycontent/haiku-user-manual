@@ -21,7 +21,7 @@ Edit homepage
    :align: center
    
 
-Go to your homepage and click on Edit on the toolbar at the top of the page. 
+Go to your homepage and click on **Edit** on the toolbar at the top of the page. 
 
 
 Edit logos
@@ -41,7 +41,7 @@ Add logo
    :align: center
    
 
-To add your logo click on the Browse... button.
+To add your logo click on the **Browse...** button.
 
 
 Select image
@@ -52,7 +52,7 @@ Select image
    
 
 1. Find your image.
-2. Click on Open.
+2. Click on **Open**.
 
 
 Add logo details
@@ -73,6 +73,6 @@ Add further logos and save
    :align: center
    
 
-Add further logos as required. Once you have added your logos scroll down to the bottom of the page and click on the Save button. 
+Add further logos as required. Once you have added your logos scroll down to the bottom of the page and click on the **Save** button. 
 
 
