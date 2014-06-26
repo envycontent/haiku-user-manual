@@ -7,17 +7,17 @@ This shows you how to delete a Portlet from your homepage. You can also hide Por
 Select Portlets
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Delete_a_Portlet/media_1403257675943.png
+.. image:: images/Homepage_-_Delete_a_Portlet/media_1367249687463.png
    :align: center
    
 
-Go to your homepage and click on **Portlets**.
+Go to the homepage of the site and click on Portlets.
 
 
 Find Portlet to be deleted
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Delete_a_Portlet/media_1403257756213.png
+.. image:: images/Homepage_-_Delete_a_Portlet/media_1367249794299.png
    :align: center
    
 

@@ -7,44 +7,46 @@ How to put an additional page into the About Us section. This is straightforward
 Go to the About us section
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Page_to_About_Us/media_1403692006823.png
+.. image:: images/Add_a_Page_to_About_Us/media_1351154970663.png
    :align: center
    
 
-Click on **Contents**.
+Click the Contents tab.
 
 
 Make sure you're in the right place
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Page_to_About_Us/media_1403692194500.png
+.. image:: images/Add_a_Page_to_About_Us/media_1351156029692.png
    :align: center
    
 
-1. You'll see the title of the section
-2. plus a list of all the pages in that section (compare these to the links in the navigation in the first screenshot)
-3. if you **don't** see the pages, then use the up arrow to navigate up a level in the website tree
+
+# You'll see the title of the section
+# plus a list of all the pages in that section (compare these to the links in the navigation in the first screenshot)
+# if you **don't** see the pages, then use the up arrow to navigate up a level in the website tree
 
 
 Add New
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Page_to_About_Us/media_1403692233964.png
+.. image:: images/Add_a_Page_to_About_Us/media_1351156560766.png
    :align: center
    
 
-Click the **Add new...** drop down list on the right of your tool bar. Choose Web Page.
+Click the Add new drop down list on the right of your tool bar. Choose Web Page.
 
 
 
-.. image:: images/Add_a_Page_to_About_Us/media_1403692340528.png
+.. image:: images/Add_a_Page_to_About_Us/media_1351156916039.png
    :align: center
    
 
 You can then start editing your page:
 
-1. Title - will appear as the page heading
-2. Short title - is optional, but can be used for a shorter or alternative title to appear in navigation listings (this is useful if the heading is very long)
-3. Summary - this will be the first paragraph on the page
+
+# Title - will appear as the page heading
+# Short title - is optional, but can be used for a shorter or alternative title to appear in navigation listings (this is useful if the heading is very long)
+# Description - this will be the first paragraph on the page
 
 

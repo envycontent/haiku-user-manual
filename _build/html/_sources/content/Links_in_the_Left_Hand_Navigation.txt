@@ -5,7 +5,7 @@ Links in the Left Hand Navigation
 You can add a link to another section of your website or an external website in the lefthand navigation:	
 
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691139281.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393321987056.png
    :align: center
    
 
@@ -13,7 +13,7 @@ You can add a link to another section of your website or an external website in 
 Add new link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691169205.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393322073253.png
    :align: center
    
 
@@ -24,7 +24,7 @@ Select Link from the Add new drop down list on the toolbar at the top of the pag
 Link details
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691250985.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393322323441.png
    :align: center
    
 
@@ -37,17 +37,17 @@ Link details
 Publish link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691300205.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393322713945.png
    :align: center
    
 
-Click on the **State** drop down list on the toolbar at the top of the page. Select **Publish.** 
+Click on the State drop down list on the toolbar at the top of the page. Select Publish. 
 
 
 Your link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691340426.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393322443672.png
    :align: center
    
 
@@ -57,18 +57,18 @@ Your link is added to the bottom of the navigation if you added it to the sectio
 Move link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691364228.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393322467692.png
    :align: center
    
 
-If you would like to move your link to a different position in the list click on **Contents** on the top tool bar. 
+If you would like to move your link to a different position in the list click on Contents on the top tool bar. 
 
 
 
-.. image:: images/Links_in_the_Left_Hand_Navigation/media_1403691398117.png
+.. image:: images/Links_in_the_Left_Hand_Navigation/media_1393322765579.png
    :align: center
    
 
-Click on the set of dots next to your link and drag it to where you want it to appear in the navigation. 
+Click on the set of dots and drag the link to where you want it to appear in the navigation. 
 
 

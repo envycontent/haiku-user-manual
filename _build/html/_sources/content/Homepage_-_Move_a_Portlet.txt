@@ -2,22 +2,22 @@
 Homepage - Move a Portlet
 ======================================================================================================
 
-The homepage below the slideshow is divided into three columns. You can change the position of Portlets within a column. You can't move a portlet from one column to another.	
+The homepage below the slideshow is divided into three columns. You can change the position of Portlets within a column. 	
 
 Select Portlets
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Move_a_Portlet/media_1403257995315.png
+.. image:: images/Homepage_-_Move_a_Portlet/media_1365492648575.png
    :align: center
    
 
-Go to your homepage and click on **Portlets** on the toolbar at the top of the page.
+Go to your homepage and click on the Portlets link on the tool bar at the top of the page. 
 
 
 Move Portlet
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Move_a_Portlet/media_1403258076862.png
+.. image:: images/Homepage_-_Move_a_Portlet/media_1365492826061.png
    :align: center
    
 

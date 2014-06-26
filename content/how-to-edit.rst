@@ -10,7 +10,6 @@ How to edit...
    aboutus.rst
    news.rst
    events.rst
-   forms.rst
 
 
 

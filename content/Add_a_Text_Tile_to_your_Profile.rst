@@ -17,7 +17,7 @@ Log in to the site and go to your profile. Click on the Edit my profile button o
 Tiles
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Text_Tile_to_your_Profile/media_1402919802819.png
+.. image:: images/Add_a_Text_Tile_to_your_Profile/media_1401783559998.png
    :align: center
    
 

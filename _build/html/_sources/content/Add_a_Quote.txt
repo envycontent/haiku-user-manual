@@ -7,17 +7,17 @@ This shows you how to add a quote to your research group page.
 Research Group page
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Quote/media_1402392237646.png
+.. image:: images/Add_a_Quote/media_1380271272271.png
    :align: center
    
 
-Go to the Research Group page you would like to edit. Click on **Edit** on the left hand side of the toolbar at the top of the page to bring up the editing interface.
+Go to the Research Group page you would like to edit and click on Edit on the left hand side of the toolbar at the top of the page to bring up the editing interface.
 
 
 Go to the text editor
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Quote/media_1402392300179.png
+.. image:: images/Add_a_Quote/media_1367842176102.png
    :align: center
    
 
@@ -40,16 +40,16 @@ Enter your quote
 Save your page
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Quote/media_1402392409432.png
+.. image:: images/Add_a_Quote/media_1367843171860.png
    :align: center
    
 
-Scroll to the bottom of the page and click on the **Save** button. 
+Scroll to the bottom of the page and click on the Save button. 
 You will now see your quote in the main text section of your page:
 
 
 
-.. image:: images/Add_a_Quote/media_1402392524369.png
+.. image:: images/Add_a_Quote/media_1367843257318.png
    :align: center
    
 

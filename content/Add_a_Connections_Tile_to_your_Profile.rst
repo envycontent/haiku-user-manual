@@ -7,17 +7,17 @@ The Connections Tile enables you to provide links to Research Groups, Colleges, 
 Edit profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403075230842.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380793655268.png
    :align: center
    
 
-Go to your profile and click on the **Edit my profile** button.
+Go to your profile and click on the Edit my profile button.
 
 
 Select Connections Tile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403075963146.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380793834650.png
    :align: center
    
 
@@ -27,7 +27,7 @@ You will now see a set of icons at the top of your Profile. Click on Connections
 Place Connections Tile onto your page
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403076021653.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380794363546.png
    :align: center
    
 
@@ -37,7 +37,7 @@ When you get to a section of your page where you can place the tile you will not
 Add a College connection
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403076048448.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380794477650.png
    :align: center
    
 
@@ -45,7 +45,7 @@ To add a College connection click on the drop down list and select College.
 
 
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403076289616.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380806206864.png
    :align: center
    
 
@@ -57,7 +57,7 @@ To add a College connection click on the drop down list and select College.
 Add a connection to another person's profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403076469903.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380806385239.png
    :align: center
    
 
@@ -65,7 +65,7 @@ Select Profile from the drop down list to bring up a list of people who are in y
 
 
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403077097814.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380869686215.png
    :align: center
    
 
@@ -77,7 +77,7 @@ Select Profile from the drop down list to bring up a list of people who are in y
 Add a connection to an external organisation
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403077152398.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380870116166.png
    :align: center
    
 
@@ -87,7 +87,7 @@ Select External connection from the drop down list.
 Enter external connection details
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403077265907.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380870189119.png
    :align: center
    
 
@@ -101,10 +101,10 @@ Enter external connection details
 Save layout
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1403077564865.png
+.. image:: images/Add_a_Connections_Tile_to_your_Profile/media_1380871312690.png
    :align: center
    
 
-Once you have finished adding connections click on the **Save Layout** button. 
+Once you have finished adding connections click on the Save Layout button. 
 
 

@@ -11,7 +11,6 @@ Configure
    Remove_an_Alias.rst
    Add_a_new_Category_for_Events.rst
    Publications_-_Site_Setup.rst
-   Change_the_Text_and_Link_on_the_Cookie_Banner.rst
 
 
 

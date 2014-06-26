@@ -2,7 +2,7 @@
 Add a Link to a Lisiting Column
 ======================================================================================================
 
-This shows you how to add a link to a listing column on a Research Group page. 	
+This shows you how to add a link to a column at the bottom of a Research Group page. 	
 
 Go to the column
 -------------------------------------------------------------------------------------------

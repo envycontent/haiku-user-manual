@@ -13,7 +13,6 @@ Research Groups
    Add__Edit_Quick_Facts.rst
    Add_an_Image_to_a_Research_Group_page.rst
    Change_the_Image_on_a_Research_Group_page.rst
-   Add_a_Lead_Image_to_a_Research_Group.rst
    Add_a_YouTube_Video_to_a_Research_Group_Page.rst
    Add_an_Audio_Clip_to_your_Page.rst
    Add_a_Research_Group_Member.rst

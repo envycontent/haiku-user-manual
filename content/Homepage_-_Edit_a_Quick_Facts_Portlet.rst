@@ -7,27 +7,27 @@ Quick Facts enable you to draw attention to key department information. They sho
 Select Portlets
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Edit_a_Quick_Facts_Portlet/media_1403079812033.png
+.. image:: images/Homepage_-_Edit_a_Quick_Facts_Portlet/media_1364896409208.png
    :align: center
    
 
-Go to your homepage. Click on **Portlets** on the toolbar at the top of the page. 
+Go to your homepage and click on the Portlets link on the toolbar at the top of the page. 
 
 
 Find the Quick Fact Portlet
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Edit_a_Quick_Facts_Portlet/media_1403079892117.png
+.. image:: images/Homepage_-_Edit_a_Quick_Facts_Portlet/media_1364896503852.png
    :align: center
    
 
-Click on **Quick facts**.
+Click on Quick facts
 
 
 Edit your facts
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Edit_a_Quick_Facts_Portlet/media_1403079954673.png
+.. image:: images/Homepage_-_Edit_a_Quick_Facts_Portlet/media_1364896725732.png
    :align: center
    
 

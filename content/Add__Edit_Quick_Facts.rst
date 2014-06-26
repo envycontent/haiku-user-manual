@@ -7,11 +7,11 @@ Quick facts should be short and preferably include a number. Numbers can be high
 Quick Facts
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add__Edit_Quick_Facts/media_1402324853661.png
+.. image:: images/Add__Edit_Quick_Facts/media_1380182102665.png
    :align: center
    
 
-Quick facts display on the right hand side of a Research Group page. 
+Quick facts appear on the right hand side of a Research Group page. 
 
 
 Edit page
@@ -46,6 +46,6 @@ Save your changes
    
 
 Scroll to the bottom of the page.
-Click on **Save**.
+Click on Save.
 
 

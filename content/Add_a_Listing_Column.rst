@@ -5,7 +5,7 @@ Add a Listing Column
 At the bottom of your Research Group page you can add columns with additional information. This shows you how to create a listing column:	
 
 
-.. image:: images/Add_a_Listing_Column/media_1403012233363.png
+.. image:: images/Add_a_Listing_Column/media_1382008141633.png
    :align: center
    
 
@@ -84,36 +84,36 @@ You have now created your first subpage.
 7. Add further pages
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Listing_Column/media_1403012320198.png
+.. image:: images/Add_a_Listing_Column/media_1382093036116.png
    :align: center
    
 
-To add additional pages go back to the column on the research page. 
+To add additional pages go back to the column on the research page. Move your cursor to the right of the column title to bring up edit, delete and manage buttons.
 Click on manage to bring up the following page:
 
 
 
-.. image:: images/Add_a_Listing_Column/media_1403012343303.png
+.. image:: images/Add_a_Listing_Column/media_1382093069537.png
    :align: center
    
 
-Click on **Add page** and repeat the process for adding a page as above. 
+Click on Add page and repeat the process for adding a page as above. 
 
 
 8. Create a link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Listing_Column/media_1403012371156.png
+.. image:: images/Add_a_Listing_Column/media_1382093415100.png
    :align: center
    
 
-To create a link click on **Add link**.
+To create a link click on Add link.
 
 
 9. Enter link details
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Listing_Column/media_1403012461552.png
+.. image:: images/Add_a_Listing_Column/media_1382093848927.png
    :align: center
    
 
@@ -126,7 +126,7 @@ To create a link click on **Add link**.
 10. Your link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Listing_Column/media_1403012548323.png
+.. image:: images/Add_a_Listing_Column/media_1382093923666.png
    :align: center
    
 
@@ -136,24 +136,24 @@ You have now created a link. Repeat the process to create further links.
 11. Add an attachment
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Listing_Column/media_1403012646980.png
+.. image:: images/Add_a_Listing_Column/media_1382097472494.png
    :align: center
    
 
-To add an attachment click on the **Add attachment** link.
+To add an attachment click on the Add attachment link either just after you have created the column or after you have created other pages or links.
 
 
 12. Enter attachment details
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Listing_Column/media_1403012708831.png
+.. image:: images/Add_a_Listing_Column/media_1382098002998.png
    :align: center
    
 
 1. Enter the title for your attachment - this forms the link from the column to the document.
 2. The description will appear below the the link in the column.
-3. Click on the **Browse...** button and find the document you would like to add. 
-4. Click on the **Save** button.
+3. Click on the Browse... button and find the document you would like to add. 
+4. Click on the Save button.
 
 
 13. Your attachment

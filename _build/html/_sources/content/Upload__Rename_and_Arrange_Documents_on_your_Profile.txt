@@ -8,35 +8,35 @@ Documents must be smaller than 5MB.
 Edit my profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994145181.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366030228972.png
    :align: center
    
 
-Click on the **Edit my profile** button under the University logo. 
+Click on the Edit my profile button under the University logo. 
 
 
 Edit Download Tile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994174945.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366037281915.png
    :align: center
    
 
-Click on the **Edit** button on your Download Tile. The button will appear when you move your cursor over the Downloads heading. Clicking the Edit button will bring up the following Upload box:
+Click on the Edit button on your Download Tile. The button will appear when you move your cursor over the Downloads heading. Clicking the Edit button will bring up the following Upload box:
 
 
 Locate your document
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994220982.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366037329768.png
    :align: center
    
 
-Click on the **Browse ...** button and find the document on your computer that you would like to upload. If the document is larger then 5MB you will be unable to upload it. 
+Click on the Browse ... button and find the document on your computer that you would like to upload. If the document is larger then 5MB you will be unable to upload it. 
 
 
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994271293.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366037372692.png
    :align: center
    
 
@@ -54,23 +54,23 @@ Rename your document
    
 
 When you upload a document the link to the document will take the name of the file. You can change this. 
-Click on the name of the document you would like to change. 
+Find the document you would like to rename and click on the title.
 
 
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994465027.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366038085432.png
    :align: center
    
 
-You can now edit the name. 
+The title will now be highlighted in yellow and you can edit the document name. 
 
 
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994498038.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366038176918.png
    :align: center
    
 
-Click on **Save**.
+Save your changes
 
 
 Arrange your documents
@@ -88,10 +88,10 @@ Save your changes.
 Save your page layout
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994690677.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366033086675.png
    :align: center
    
 
-When you have finished editing the Download Tile click on the **Save layout** button located just under the University logo. 
+When you have finished editing the Download Tile click on the Save layout button located just under the University logo. 
 
 

@@ -2,10 +2,10 @@
 Add a new Category for Events
 ======================================================================================================
 
-Event Categories and Types offer you a way to organise your events and help visitors to your site find what they are looking for. They display on the right side of the Events listing page:	
+Event Categories and Types offer you a way to organise your events and help visitors to your site find what they are looking for. They display on the right hand side of the Events listing page:	
 
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261467474.png
+.. image:: images/Add_a_new_Category_for_Events/media_1352197033003.png
    :align: center
    
 
@@ -13,7 +13,7 @@ Event Categories and Types offer you a way to organise your events and help visi
 Site Setup option
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261540765.png
+.. image:: images/Add_a_new_Category_for_Events/media_1352196556647.png
    :align: center
    
 
@@ -21,27 +21,27 @@ New Categories are added through the Site Setup page. To find this page click on
 
 
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261558002.png
+.. image:: images/Add_a_new_Category_for_Events/media_1352196654204.png
    :align: center
    
 
-Click on **Site Setup**.
+Click on Site Setup.
 
 
 Categories
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261602215.png
+.. image:: images/Add_a_new_Category_for_Events/media_1352196705040.png
    :align: center
    
 
-Click on **Categories**.
+Click on Categories.
 
 
 Event and Event types lists
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261676503.png
+.. image:: images/Add_a_new_Category_for_Events/media_1352196863082.png
    :align: center
    
 
@@ -52,10 +52,10 @@ These categories will now be available to you from the Events type drop down box
 Save your changes
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261703548.png
+.. image:: images/Add_a_new_Category_for_Events/media_1352196926226.png
    :align: center
    
 
-Scroll to the bottom of the page and click on **Save**.
+Save your changes - the Save button is at the bottom of the page. 
 
 
