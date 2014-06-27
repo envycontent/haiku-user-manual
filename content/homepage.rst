@@ -14,6 +14,7 @@ Homepage
    Homepage_-_Remove_Publications_from_a_Selected_Publications_Portlet.rst
    Homepage_-_Add_Quick_Facts_Portlet.rst
    Homepage_-_Edit_a_Quick_Facts_Portlet.rst
+   Homepage_-_Add_a_YouTube_Video_to_your_Homepage
    Homepage_-_Add_Latest_News_Portlet.rst
    Homepage_-_Change_the_Number_of_News_Items_on_Display.rst
    Homepage_-_HideShow_a_Portlet.rst

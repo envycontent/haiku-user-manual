@@ -7,17 +7,17 @@ You can create links to external website, to pages within your site and to email
 Go to your page
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Create_a_Link_to_an_External_Website/media_1352985986417.png
+.. image:: images/Create_a_Link_to_an_External_Website/media_1403704815672.png
    :align: center
    
 
-Go to the page where you would like to create the link and click on Edit on the top right hand side of the blue toolbar on the top of page. 
+Go to the page where you would like to create the link. Click on **Edit** on the toolbar at the top of page. 
 
 
 Go to the Text editor
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Create_a_Link_to_an_External_Website/media_1352986855389.png
+.. image:: images/Create_a_Link_to_an_External_Website/media_1403704904293.png
    :align: center
    
 
@@ -30,30 +30,24 @@ Scroll down the page until you reach the Text box.
 Create your link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Create_a_Link_to_an_External_Website/media_1352986291952.png
+.. image:: images/Create_a_Link_to_an_External_Website/media_1403705047021.png
    :align: center
    
 
-To create a link to an external website click on External and scroll down in the link creation box until you reach the Link URL section:
-
-
-
-.. image:: images/Create_a_Link_to_an_External_Website/media_1352986927496.png
-   :align: center
-   
-
-1. Type or paste your URL into the box.
-2. Click on Preview.
-3. Click on Insert.
+1. Select external
+2. Enter your web address
+3. The Link Title can be used to provide more information about the link. 
+4. You can select whether you would like the link to open in a new browser window.
+5. Click on OK. 
 
 
 Save your changes
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Create_a_Link_to_an_External_Website/media_1352986995898.png
+.. image:: images/Create_a_Link_to_an_External_Website/media_1403705378173.png
    :align: center
    
 
-Scroll down to the bottom of the page and click on Save.
+Scroll down to the bottom of the page and click on **Save**.
 
 

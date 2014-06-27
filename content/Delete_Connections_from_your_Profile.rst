@@ -7,27 +7,27 @@ You can delete connections from your profile. You can either delete individual c
 Edit profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Delete_Connections_from_your_Profile/media_1380872872353.png
+.. image:: images/Delete_Connections_from_your_Profile/media_1403619388671.png
    :align: center
    
 
-Click on the Edit my profile button.
+Click on the **Edit my profile** button.
 
 
 Edit Connections
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Delete_Connections_from_your_Profile/media_1380872900705.png
+.. image:: images/Delete_Connections_from_your_Profile/media_1403619429824.png
    :align: center
    
 
-To edit your connections click on the Edit button on the top right hand side of your list of connections. The button will appear when you hover over the list of connections. 
+To edit your connections click on the **Edit** button on the top right hand side of your list of connections. The button will appear when you hover over the list of connections. 
 
 
 Delete a connection
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Delete_Connections_from_your_Profile/media_1380872928307.png
+.. image:: images/Delete_Connections_from_your_Profile/media_1403619466973.png
    :align: center
    
 

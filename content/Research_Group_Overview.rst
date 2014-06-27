@@ -7,7 +7,7 @@ A research group page acts as a 'business card' for your research group, with li
 Finding your way around
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/group-example.png
+.. image:: images/Research_Group_Overview/research-group.png
    :align: center
    
 
@@ -26,7 +26,7 @@ The following screenshots aim to point you in the right direction, but there are
 Editing the Header & Main Text
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1350415441475.png
+.. image:: images/Research_Group_Overview/media_1402327813802.png
    :align: center
    
 
@@ -36,7 +36,7 @@ You can change or add elements in the Header and Main Text by filling in fields 
 Locating the correct field to edit
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/editing-interface.png
+.. image:: images/Research_Group_Overview/research-group-edit.png
    :align: center
    
 
@@ -57,7 +57,7 @@ Scroll down the page to see the following sections:
 Editing the Team Members and Publications
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1350416614957.png
+.. image:: images/Research_Group_Overview/media_1402328130317.png
    :align: center
    
 
@@ -67,23 +67,21 @@ The lists of Team Members and Publications are compiled from items in the Our Te
 Columns
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1350416873444.png
+.. image:: images/Research_Group_Overview/media_1402328252647.png
    :align: center
    
 
 To Edit Columns, you need to go back to the View of the page. 
 
 
-# The menu for adding columns appears in the left hand margin. You may need to make your browser window wider to see it.
-# The menu for editing an existing column appears when you hover over it with the mouse.
-
-There are three types of column, but we're only using the Text and Listing Column for the moment.
+# The menu for adding columns is below the main text content area of the page. 
+# The menu for editing an existing column is at the bottom of the column.
 
 
 Text Column
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1350417360439.png
+.. image:: images/Research_Group_Overview/media_1402328422182.png
    :align: center
    
 
@@ -93,26 +91,23 @@ A Text Column is just a piece of static text. This can be useful if you want to 
 Listing Column
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1350417976423.png
+.. image:: images/Research_Group_Overview/media_1402328445367.png
    :align: center
    
 
 Listing Columns contain links to content that you create yourself. If the visitor clicks on one of the links, they will be taken to a page in a sub-section of your Group. This can be useful if you want to list your projects and also provide more information about them.
 
-Click Edit (1) to change the title of the column and Manage (2) to add or order list items. Click the link title to edit the link itself.
+Click Edit (1) to change the title of the column and Manage (2) to add or order list items. Click the link title to edit the page being linked to.
 
 
 A link to a page in a Listing Column
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1350418397112.png
+.. image:: images/Research_Group_Overview/media_1402328527554.png
    :align: center
    
 
-
-# When a visitor clicks a link, it takes them to the relevant page in a section.
-# The title of the Listing Column becomes the section title.
-# The links in the Listing Column become a navigation menu for the section.
+When a visitor clicks a link, it takes them to the relevant page in a section.
 
 If you want to edit the content of the page, then use the Edit button in the Edit bar at the top of the page.
 
@@ -120,11 +115,11 @@ If you want to edit the content of the page, then use the Edit button in the Edi
 A link to another website in a Listing Column
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1388743801206.png
+.. image:: images/Research_Group_Overview/media_1402328677075.png
    :align: center
    
 
-Sometimes you may want to just provide a list of links to external websites or combine external links with your own pages in a list. For instance, you may have collaborators or partners with their own websites, or you may wish to include a joint project featured on another Group page. 
+Sometimes you may want to provide a list of links to external websites or combine external links with your own pages in a list. For instance, you may have collaborators or partners with their own websites, or you may wish to include a joint project featured on another Group page. 
 
 There's a button to add a link or a page in the manage view of the column.
 
@@ -132,7 +127,7 @@ There's a button to add a link or a page in the manage view of the column.
 Add a document for download to a Listing Column
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Research_Group_Overview/media_1388743872133.png
+.. image:: images/Research_Group_Overview/media_1402328708222.png
    :align: center
    
 

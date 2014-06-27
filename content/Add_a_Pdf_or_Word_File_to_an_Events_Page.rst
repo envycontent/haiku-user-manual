@@ -7,7 +7,7 @@ There are two steps to adding a Pdf or Word file to your Events Page. You need t
 Add Attachment
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350374867459.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403594587184.png
    :align: center
    
 
@@ -16,7 +16,7 @@ Click on Add new...
 
 
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350374908497.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403594634013.png
    :align: center
    
 
@@ -26,7 +26,7 @@ Click on Attachment.
 Upload your file
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350375118211.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403594676243.png
    :align: center
    
 
@@ -36,10 +36,20 @@ Upload your file
 4. Click on the Save button.
 
 
+Your file
+-------------------------------------------------------------------------------------------
+
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403594934000.png
+   :align: center
+   
+
+You will see a confirmation that your files has been uploaded.
+
+
 Link to the attachment
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350375828117.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403595043643.png
    :align: center
    
 
@@ -49,7 +59,7 @@ Go back to your Events page and click on Edit.
 Create a link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350376192312.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403595108432.png
    :align: center
    
 
@@ -61,18 +71,18 @@ Scroll down the page until you come to the text editor.
 Select the document
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350376147732.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403595149013.png
    :align: center
    
 
 1. Select the document you would like to link to.
-2. Click on the Insert button.
+2. Click on the OK button.
 
 
 Save your changes
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1350376359477.png
+.. image:: images/Add_a_Pdf_or_Word_File_to_an_Events_Page/media_1403595177625.png
    :align: center
    
 

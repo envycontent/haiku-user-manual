@@ -7,39 +7,49 @@ Shows you how to change the image on a Research Group page. Images on Research G
 Switch to Edit mode
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1380183408555.png
+.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1403010802641.png
    :align: center
    
 
-Go to the Research Group page you would like to edit and click on Edit on the top left hand side of the tool bar at the top of the page. 
+Go to your Research Group page. Click on **Edit** on the toolbar at the top of the page.
 
 
 Replace your image
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1380183452274.png
+.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1403010876783.png
    :align: center
    
 
-Click on Upload a new image
+1. Select **Replace with new image.**
+2. Click on **Browse...**
 
 
 Find your new image
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1380183545499.png
+.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1403010934443.png
    :align: center
    
 
-Navigate to your new image and click on Open. (Your image must be 702 pixels wide by 336 pixels high.)
+Navigate to your new image and click on **Open**. (Your image must be 702 pixels wide by 336 pixels high.)
 After clicking on open you will see that the name of your image appears in the text box next to the Browse button:
 
 
 
-.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1380183603842.png
+.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1403010989455.png
    :align: center
    
 
-If you click on the Browse... button you can reselect your image. If you are happy with your selection save your page (the save button is at the bottom of the page). 
+
+Save image
+-------------------------------------------------------------------------------------------
+
+.. image:: images/Change_the_Image_on_a_Research_Group_page/media_1403011097240.png
+   :align: center
+   
+
+Scroll to the bottom of the page. 
+Click on **Save**.
 
 
