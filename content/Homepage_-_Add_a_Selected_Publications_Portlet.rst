@@ -7,17 +7,17 @@ You can display publications on the homepage. You have the choice to either disp
 Select Portlets
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1363692492129.png
+.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1404118826661.png
    :align: center
    
 
-Go to your homepage and click on Portlets on the top toolbar. 
+Go to your homepage and click on **Portlets** on the top toolbar. 
 
 
 Choose Selected publications
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1363692526376.png
+.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1404118885102.png
    :align: center
    
 
@@ -27,7 +27,7 @@ The homepage (below the slideshow) is divided into three columns. Each column is
 Publications set up
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1392899669215.png
+.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1404118937340.png
    :align: center
    
 
@@ -39,7 +39,7 @@ Publications set up
 Select publications
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1392899781608.png
+.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1404118998416.png
    :align: center
    
 
@@ -50,11 +50,19 @@ Select publications
 Save selected publications portlet
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1392899992807.png
+.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1404119044047.png
    :align: center
    
 
 1. You can search for additional publication using the keyword search as above.
 2. Save the selected publications portlet when you have finished adding your publications.
+
+This will create the following portlet:
+
+
+
+.. image:: images/Homepage_-_Add_a_Selected_Publications_Portlet/media_1404119095809.png
+   :align: center
+   
 
 

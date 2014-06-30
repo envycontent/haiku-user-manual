@@ -7,7 +7,7 @@ How to add an editor who can only edit a group page. This tutorial is for editor
 Use the Sharing link on the group page
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Adding_Group_Editors/media_1346435721645.png
+.. image:: images/Adding_Group_Editors/media_1404125408911.png
    :align: center
    
 
@@ -17,7 +17,7 @@ Find the Group and click the Sharing link on the left. If you can't see this lin
 Find your editor and assign them to the group
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Adding_Group_Editors/media_1346436078191.png
+.. image:: images/Adding_Group_Editors/media_1404125484208.png
    :align: center
    
 
@@ -33,7 +33,7 @@ This will give your editor the rights to edit this group and its columns, but th
 If you can't find your editor
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Adding_Group_Editors/media_1346443878335.png
+.. image:: images/Adding_Group_Editors/media_1404125526962.png
    :align: center
    
 

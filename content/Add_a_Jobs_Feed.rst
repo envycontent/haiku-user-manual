@@ -33,34 +33,35 @@ Copy the web address.
 Your site
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Jobs_Feed/media_1380284144886.png
+.. image:: images/Add_a_Jobs_Feed/media_1404123754488.png
    :align: center
    
 
-Go to the page you would like to add the jobs feed to and click on Edit on the tool bar at the top of the page. 
+Go to the page you would like to add the jobs feed to and click on **Edit** on the tool bar at the top of the page. 
 
 
 
-.. image:: images/Add_a_Jobs_Feed/media_1380284607382.png
+.. image:: images/Add_a_Jobs_Feed/media_1404123810649.png
    :align: center
    
 
-Scroll down the page until you reach the Text Format box. Paste the vacancies web address you copied from the data.ox.ac.uk into your page. 
+Scroll down the page until you reach the **Text** box. Paste the vacancies web address you copied from the data.ox.ac.uk into your page. 
 
 
 Create a link
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_Jobs_Feed/media_1380284898393.png
+.. image:: images/Add_a_Jobs_Feed/media_1404123852834.png
    :align: center
    
 
-Turn the web address you just copied into a link linking to the web address you just copied and pasted. The web address of the jobs feed now has a black box around it. 
-Save your changes. You will now see that you have a list of vacancies in your page. Clicking on a job title will bring up details of the vacancy.
+Turn the web address you just copied into a link linking to the web address you just copied and pasted.
+Scroll down to the bottom of the page and save your changes. 
+You will now see that you have a list of vacancies in your page. Clicking on a job title will bring up details of the vacancy.
 
 
 
-.. image:: images/Add_a_Jobs_Feed/media_1380285004039.png
+.. image:: images/Add_a_Jobs_Feed/media_1404123918342.png
    :align: center
    
 

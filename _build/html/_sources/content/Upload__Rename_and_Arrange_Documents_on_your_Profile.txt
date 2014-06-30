@@ -25,7 +25,7 @@ Edit Download Tile
 Click on the **Edit** button on your Download Tile. The button will appear when you move your cursor over the Downloads heading. Clicking the Edit button will bring up the following Upload box:
 
 
-Locate your document
+Add your document
 -------------------------------------------------------------------------------------------
 
 .. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994220982.png
@@ -49,22 +49,17 @@ Once you have located your document:
 Rename your document
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366038020727.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994465027.png
    :align: center
    
 
 When you upload a document the link to the document will take the name of the file. You can change this. 
 Click on the name of the document you would like to change. 
-
-
-
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994465027.png
-   :align: center
-   
-
 You can now edit the name. 
 
 
+Save
+-------------------------------------------------------------------------------------------
 
 .. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1402994498038.png
    :align: center
@@ -76,13 +71,13 @@ Click on **Save**.
 Arrange your documents
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1366037468679.png
+.. image:: images/Upload__Rename_and_Arrange_Documents_on_your_Profile/media_1404110963443.png
    :align: center
    
 
-You can change the display order of your documents. To do this click on the set of grey arrows next to the document you would like to move and keeping your mouse button pressed down drag it up or down the list. 
-
-Save your changes.
+To change the display order of your documents:
+1. Click on the grey arrows next to the document you would like to move and keeping your mouse button pressed down drag it up or down the list. 
+2. Save your changes.
 
 
 Save your page layout

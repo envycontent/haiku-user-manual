@@ -5,7 +5,7 @@ Move Content from one Listing Column to another Listing Column
 
 
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042634382.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853419148.png
    :align: center
    
 
@@ -15,7 +15,7 @@ In this example the Links content from the right hand Announcements column will 
 Switch to contents view
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1349961699874.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853450537.png
    :align: center
    
 
@@ -26,7 +26,7 @@ Click on Contents on the tool bar at the top left hand side of the page.
 The Research Group columns
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042725945.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853481855.png
    :align: center
    
 
@@ -37,19 +37,19 @@ Click on the column name where you would like to move content from. This lists t
 Column content
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042777401.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853525350.png
    :align: center
    
 
 1. Click on the check box next to content you would like to move. 
-2. Click on Cut.
-3. Click on the up arrow to move back to the list of columns.
+2. Click on **Cut**.
+3. Click on the **^ Up one level** button to move back to the list of columns.
 
 
 Select the new column
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042824302.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853599536.png
    :align: center
    
 
@@ -59,17 +59,17 @@ Select the column where you wish to move the content to by clicking on the colum
 Move the content
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042852886.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853627254.png
    :align: center
    
 
-Click on paste to move the content to the new column. 
+Click on **Paste** to move the content to the new column. 
 
 
 Moved content
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042895220.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853679136.png
    :align: center
    
 
@@ -77,7 +77,7 @@ You will see that the moved content has been added to the bottom of the new colu
 
 
 
-.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1383042934200.png
+.. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853717097.png
    :align: center
    
 
