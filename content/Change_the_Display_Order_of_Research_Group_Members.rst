@@ -1,58 +1,45 @@
 
-Change the display order of research group members
+Change the Display Order of Research Group Members
 ======================================================================================================
 
 Shows you how to change the order in which group members are displayed on a research group page.	
 
-Find your research group
--------------------------------------------------------------------------------------------
-
-.. image:: images/Change_the_display_order_of_research_group_members/media_1342554539583.png
-   :align: center
-   
-
-1. Go to the research section of the website.
-2. Select the research group you want to change the display order of the group members.
-
-
 Select edit mode
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Change_the_display_order_of_research_group_members/media_1342554619340.png
+.. image:: images/Change_the_Display_Order_of_Research_Group_Members/media_1401777200764.png
    :align: center
    
 
-Click on edit on the tool bar at the top of the page.
+Go to the Research section of your website and find the Research Group page you would like to edit. 
+Click on **Edit** on the tool bar at the top of the page to go to the editing interface: 
 
 
-Relations tab
+
+.. image:: images/Change_the_Display_Order_of_Research_Group_Members/media_1401777266225.png
+   :align: center
+   
+
+
+Change the display order
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Change_the_display_order_of_research_group_members/media_1342554652370.png
+.. image:: images/Change_the_Display_Order_of_Research_Group_Members/media_1401777295741.png
    :align: center
    
 
-Click on the relations tab and scroll down the page to the Related Profiles section.
-
-
-Changing the display order
--------------------------------------------------------------------------------------------
-
-.. image:: images/Change_the_display_order_of_research_group_members/media_1345742132224.png
-   :align: center
-   
-
-1. From the right hand column click on the name you want to move.
+Scroll down the page until you reach the **Our team** section. 
+1. Select the name you would like to move in the right hand column.
 2. Use the up and down arrows to change the order.
 
 
 Save your changes
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Change_the_display_order_of_research_group_members/media_1342554808451.png
+.. image:: images/Change_the_Display_Order_of_Research_Group_Members/media_1401777328888.png
    :align: center
    
 
-Save the changes (the button is at the bottom of the page).
+Scroll down to the bottom of the page. Click on **Save**. 
 
 
