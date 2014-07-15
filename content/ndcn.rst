@@ -2,4 +2,4 @@
 NDCN Information Architecture 
 =============================
 
-This will be a restructured text article about the structure of the NDCN site and subsites.
+Please see the article on the `Haiku Help Centre <https://sharepoint.nexus.ox.ac.uk/sites/medsci/haiku/help-centre/SitePages/ndcn.aspx>`_
