@@ -2,7 +2,7 @@
 Change the Order of Form Fields
 ======================================================================================================
 
-You change the order of fields in your form. This shows you how to do this. 	
+You can change the order of fields in your form. This shows you how to do this. 	
 
 Form Contents
 -------------------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ Form Contents
 Go to your form. Click on **Contents** on the toolbar at the top of the page. 
 
 
-Form contents
+Move field
 -------------------------------------------------------------------------------------------
 
 .. image:: images/Change_the_Order_of_Form_Fields/media_1402578763402.png
