@@ -8,46 +8,46 @@ Removing the publications from your list of Key Publications doesn't delete the 
 Edit your Profile
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Remove_a_Key_Publication/media_1366028781740.png
+.. image:: images/Remove_a_Key_Publication/media_1407419449717.png
    :align: center
    
 
-Click on the Edit my profile button just below the University logo.
+Click on the **Edit my profile** button just below the University logo.
 
 
 Edit your Key Publications
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Remove_a_Key_Publication/media_1366028812030.png
+.. image:: images/Remove_a_Key_Publication/media_1407419485869.png
    :align: center
    
 
-Click on the Edit button next to the Key Publications heading. This button will appear when you place your cursor over the heading. 
+Click on the **Edit** button next to the Key Publications heading. This button will appear when you place your cursor on the Key Publications tile. 
 
 
 Remove the publication
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Remove_a_Key_Publication/media_1366028856801.png
+.. image:: images/Remove_a_Key_Publication/media_1407419538886.png
    :align: center
    
 
-Click on the red cross next to the publication you would like to remove. 
+Click on the cross next to the publication you would like to remove. 
 
 
 
-.. image:: images/Remove_a_Key_Publication/media_1366029094860.png
+.. image:: images/Remove_a_Key_Publication/media_1407419785679.png
    :align: center
    
 
-Click on OK.
+Click on **OK**.
 
 
 
-.. image:: images/Remove_a_Key_Publication/media_1366029130077.png
+.. image:: images/Remove_a_Key_Publication/media_1407419823444.png
    :align: center
    
 
-Click on the Save button.
+Click on the **Save** button.
 
 
