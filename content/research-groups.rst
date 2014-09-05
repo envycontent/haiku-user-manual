@@ -32,6 +32,7 @@ Research Groups
    Move_Content_from_one_Listing_Column_to_another_Listing_Column.rst
    Add_a_Sub-page_on_a_Listing_Column_Page.rst
    Change_the_Order_of_Columns.rst
+   Change_the_Order_of_Items_in_Columns.rst
    Add_a_Link_to_a_Lisiting_Column.rst
    Add_an_Attachment_to_a_Column.rst
    Delete_a_Research_Group_from_a_Research_Theme.rst
