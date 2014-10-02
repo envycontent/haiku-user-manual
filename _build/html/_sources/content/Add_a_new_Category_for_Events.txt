@@ -2,7 +2,7 @@
 Add a new Category for Events
 ======================================================================================================
 
-Event Categories and Types offer you a way to organise your events and help visitors to your site find what they are looking for. They display on the right side of the Events listing page:	
+Event Categories offer you a way to organise your events and help visitors to your site find what they are looking for. They display on the right side of the Events listing page:	
 
 
 .. image:: images/Add_a_new_Category_for_Events/media_1403261467474.png
@@ -10,52 +10,42 @@ Event Categories and Types offer you a way to organise your events and help visi
    
 
 
-Site Setup option
+Taxonomy 
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261540765.png
+.. image:: images/Add_a_new_Category_for_Events/media_1412243966393.png
    :align: center
    
 
-New Categories are added through the Site Setup page. To find this page click on the arrow next to your name in the right hand corner of the tool bar at the top of the page.
+New Categories are added in to the taxonomy section. Click on the **Taxonomy** link at the top of the page.
 
 
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261558002.png
+.. image:: images/Add_a_new_Category_for_Events/media_1412244071409.png
    :align: center
    
 
-Click on **Site Setup**.
+Click on **Event**.
 
 
-Categories
+Edit event categories
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261602215.png
+.. image:: images/Add_a_new_Category_for_Events/media_1412244431758.png
    :align: center
    
 
-Click on **Categories**.
+Click on **Edit**.
 
 
-Event and Event types lists
+Add new category
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_Events/media_1403261676503.png
+.. image:: images/Add_a_new_Category_for_Events/media_1412244595536.png
    :align: center
    
 
-Scroll down the page until you reach the Event and Event types boxes. You can type new categories into these boxes. 
-These categories will now be available to you from the Events type drop down box and the Categories selection box when adding or editing Events pages.  
-
-
-Save your changes
--------------------------------------------------------------------------------------------
-
-.. image:: images/Add_a_new_Category_for_Events/media_1403261703548.png
-   :align: center
-   
-
-Scroll to the bottom of the page and click on **Save**.
+1. Type your new category on a new line in the **Available categories** box.
+2. Click on **Save**.
 
 

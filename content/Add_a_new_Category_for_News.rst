@@ -10,51 +10,46 @@ News Categories offer you a way to organise your news and help visitors to your 
    
 
 
-Site Setup option
+Taxonomy
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_News/media_1401795222414.png
+.. image:: images/Add_a_new_Category_for_News/media_1412239562113.png
    :align: center
    
 
-New Categories are added through the Site Setup page. To find this page click on the arrow next to your name in the right hand corner of the tool bar at the top of the page.
+New Categories are added in the taxonomy section. Click on the **Taxonomy** link at the top of the page. 
 
 
-
-.. image:: images/Add_a_new_Category_for_News/media_1401795241853.png
-   :align: center
-   
-
-Click on Site Setup.
-
-
-Categories
+News Item
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_News/media_1401795292138.png
+.. image:: images/Add_a_new_Category_for_News/media_1412239601791.png
    :align: center
    
 
-Click on **Categories**.
+Click on **News Item**.
 
 
-
-.. image:: images/Add_a_new_Category_for_News/media_1401795356230.png
-   :align: center
-   
-
-Type your categories into the News Item box at the top of the page.
-
-
-Save your changes
+Edit categories
 -------------------------------------------------------------------------------------------
 
-.. image:: images/Add_a_new_Category_for_News/media_1401795383468.png
+.. image:: images/Add_a_new_Category_for_News/media_1412239680202.png
    :align: center
    
 
-Scroll to the bottom of the page. 
-Click on **Save**. 
+Click on **Edit**.
+
+
+Add new category
+-------------------------------------------------------------------------------------------
+
+.. image:: images/Add_a_new_Category_for_News/media_1412239823879.png
+   :align: center
+   
+
+1. Type your new category on a new line in the **Available categories** box. 
+2. Click on **Save**.
+
 
 
 News Item editing interface
