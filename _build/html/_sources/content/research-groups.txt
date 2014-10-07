@@ -19,6 +19,7 @@ Research Groups
    Add_a_Research_Group_Member.rst
    Remove_a_Research_Group_Member.rst
    Change_the_Display_Order_of_Research_Group_Members.rst
+   Change_the_Heading_of_the_List_of_Team_Members
    Add_a_Quote.rst
    symplectic.rst
    Add_Publications_to_a_Research_Group_Page.rst
