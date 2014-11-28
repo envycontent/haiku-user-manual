@@ -39,10 +39,9 @@ Enter form details:
 5. Text on reset button.
 6. Options to email / save data - see the **Forms Data** guide for more details. 
 7. Select if you would like to include a thank you for submitting the form page. You can edit this thank you page - see the **Edit a Form Thank You Page** guide for details. 
-8. Select if your form data needs to be be submitted over a secure connection. If your data needs to be submitted over a secure connection save the data (number 6) rather than having it emailed as email is not secure. 
-9. This text displays before the form fields.
-10. Text entered here displays after the form fields. 
-11. Save your form.
+8. This text displays before the form fields.
+9. Text entered here displays after the form fields. 
+10. Save your form.
 
 
 Publish form
