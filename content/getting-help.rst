@@ -6,7 +6,7 @@ If you have problems you can use the Help tab on the right of your screen, or em
 Ask Us Tab
 ----------
 
-.. image:: images/getting_help/ask-us-tab.png
+.. image:: images/getting-help/ask-us-tab.png
    :alt: 
    :height: 314px
    :width: 370px
@@ -22,7 +22,7 @@ It is sometimes useful to have information about the browser you are using and/o
 Knowledge base
 --------------
 
-.. image:: images/getting_help/knowledge-base.png
+.. image:: images/getting-help/knowledge-base.png
    :alt: 
    :height: 228px
    :width: 560px
