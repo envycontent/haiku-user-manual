@@ -11,7 +11,6 @@ Profiles
    Assign_a_User_to_Edit_a_Profile.rst
    Change_the_Web_Address_on_a_Profile.rst
    Change_a_Profile_Image.rst
-   Delete_a_Profile_Image.rst
 
 
 

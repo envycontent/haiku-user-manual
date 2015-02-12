@@ -12,6 +12,7 @@ Getting Started
    Unpublish_your_Webpage.rst
    Create_an_Internal_Link.rst
    Create_a_Link_to_an_External_Website.rst
+   create-an-email-link.rst
 
 
 

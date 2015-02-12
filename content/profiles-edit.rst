@@ -13,7 +13,7 @@ Profiles
    Delete_a_Text_Tile_from_your_Profile.rst
    Add_a_Connections_Tile_to_your_Profile.rst
    Change_the_Display_Order_of_Connections_on_your_Profile.rst
-   Delete_Connections_from_your_Profile.rst
+   delete-connections-from-your-profile.rst
    Add_a_Download_Tile_to_your_Profile.rst
    Upload__Rename_and_Arrange_Documents_on_your_Profile.rst
    Delete_a_Document_from_your_Profile.rst
