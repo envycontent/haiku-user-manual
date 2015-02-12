@@ -7,7 +7,7 @@ Getting Started
    
    Log_In_to_Your_Site_with_Single_Sign_On.rst
    Log_out_from_your_Site
-   Getting_Help.rst
+   getting-help.rst
    Publish_your_Webpage.rst
    Unpublish_your_Webpage.rst
    Create_an_Internal_Link.rst
