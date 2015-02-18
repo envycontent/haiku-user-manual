@@ -40,7 +40,7 @@ Go to your profile. Click **Edit my Profile**.
 
 * A profile is divided into different tiles (sections). 
 * When you hover over a tile you will see an **Edit** button. 
-* Click the **Edit** button to bring up the editing interface for the section and make your changes. 
+* Click the **Edit** button to open the editing interface for the section and make your changes. 
 * See the futher information section below for guides on how to edit specific parts of the your profile. 
 
 Save layout
