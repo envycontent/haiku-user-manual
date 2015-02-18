@@ -1,7 +1,7 @@
 Add a Text Tile to your Profile
 ===============================
 
-When your profile is first created you have an editable area of text running down the middle of the page. If you would like to add text to other parts of your profile you need to add a Text Tile. This shows you how to do this. 
+When your profile is first created you have an editable text area running down the middle of the page. If you would like to add text to other parts of your profile you need to add a Text Tile. This shows you how to do this. 
 
 Edit your profile
 -----------------
@@ -13,7 +13,7 @@ Edit your profile
    :align: center
 
 
-Log in to the site and go to your profile. Click on the **Edit my profile** button on the top left hand side of the screen.
+Log in to the site and go to your profile. Click the **Edit my profile** button on the top left hand side of the screen.
 
 Tiles
 -----

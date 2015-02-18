@@ -9,7 +9,7 @@ Profiles
    Remove_a_Key_Publication.rst
    hide-publications.rst
    symplectic.rst
-   add_a_text_tile_to_your_profile.rst
+   add-a-text-tile-to-your-profile.rst
    Delete_a_Text_Tile_from_your_Profile.rst
    Add_a_Connections_Tile_to_your_Profile.rst
    Change_the_Display_Order_of_Connections_on_your_Profile.rst
