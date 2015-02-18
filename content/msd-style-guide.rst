@@ -15,7 +15,7 @@ Profiles
    :align: center
 
 
-You do not need to include all these feature boxes (called tiles in Haiku) on your profile page, but if you do include any, they must be added in the position show in screen shot. 
+You do not need to include all these feature boxes (called tiles in Haiku) on your profile page, but if you do include any, they must be added in the position shown in screen shot. 
 
 #. **Member of:** Add your team name first, and link it to your team page (unless you are not part of the core divisional office, and it can then link to your own website). You may also add any other university networks, colleges etc. that you are a member of
 #. **Related Links and Resources:** Bullet any links you add
