@@ -11,7 +11,7 @@ Open your profile
    :align: center
 
 
-Go to your profile and click on **Edit** on the right of the page.
+Go to your profile and click **Edit** on the right of the page.
 
 Personal information edit box
 -----------------------------
@@ -23,7 +23,7 @@ Personal information edit box
    :align: center
 
 
-When you hover over your name you will see an **Edit **button. Click the **Edit **button.
+When you hover over your name you will see an **Edit** button. Click the **Edit** button.
 
 Edit box
 --------

@@ -59,9 +59,9 @@ Further information
 -------------------
 
 * :doc:`MSD Support & Services Style Guide <msd-style-guide>`
-* :doc:`Change your Name or Job Title on a Profile <Change_your_Name_or_Job_Title_on_a_Profile>`
+* :doc:`Change your Name or Job Title on a Profile <change-your-name-or-job-title-on-a-profile>`
 * :doc:`Change / Add Contact Details on your Profile <Change__Add_Contact_Details_on_your_Profile>`
-* :doc:`Add a Text Tile to your Profile <Add_a_Text_Tile_to_your_Profile>`
+* :doc:`Add a Text Tile to your Profile <add_a_text_tile_to_your_profile>`
 * :doc:`Delete a Text Tile from your Profile <Delete_a_Text_Tile_from_your_Profile>`
 * :doc:`Add a Connections Tile to your Profile <Add_a_Connections_Tile_to_your_Profile>`
 * :doc:`Change the Display Order of Connections on your Profile <Change_the_Display_Order_of_Connections_on_your_Profile>` 
