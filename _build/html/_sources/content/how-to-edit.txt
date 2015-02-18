@@ -11,6 +11,7 @@ How to edit...
    news.rst
    events.rst
    forms.rst
+   msd-teams.rst
 
 
 

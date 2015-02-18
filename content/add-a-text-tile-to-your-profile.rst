@@ -6,7 +6,7 @@ When your profile is first created you have an editable area of text running dow
 Edit your profile
 -----------------
 
-.. image:: images/add_a_text_tile_to_your_profile/edit-your-profile.png
+.. image:: images/add-a-text-tile-to-your-profile/edit-your-profile.png
    :alt: 
    :height: 238px
    :width: 385px
@@ -18,7 +18,7 @@ Log in to the site and go to your profile. Click on the **Edit my profile** butt
 Tiles
 -----
 
-.. image:: images/add_a_text_tile_to_your_profile/tiles.png
+.. image:: images/add-a-text-tile-to-your-profile/tiles.png
    :alt: 
    :height: 157px
    :width: 655px
@@ -27,7 +27,7 @@ Tiles
 
 You will now see a set of icons at the top of your Profile. Holding you mouse button down drag the icon to the part of your page where you would like to add the Text Tile (for example underneath your contact details). 
 
-.. image:: images/add_a_text_tile_to_your_profile/media_1401783919468.png
+.. image:: images/add-a-text-tile-to-your-profile/media_1401783919468.png
    :alt: 
    :height: 159px
    :width: 503px
@@ -39,7 +39,7 @@ When you drag the tile over an area of the page where you can add the tile a col
 Add text
 --------
 
-.. image:: images/add_a_text_tile_to_your_profile/add-text.png
+.. image:: images/add-a-text-tile-to-your-profile/add-text.png
    :alt: 
    :height: 479px
    :width: 625px
@@ -51,7 +51,7 @@ You can now add text to the tile. Once you have finished editing your content cl
 Save layout
 -----------
 
-.. image:: images/add_a_text_tile_to_your_profile/save-layout.png
+.. image:: images/add-a-text-tile-to-your-profile/save-layout.png
    :alt: 
    :height: 354px
    :width: 470px
