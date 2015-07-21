@@ -12,6 +12,7 @@ How to edit...
    events.rst
    forms.rst
    msd-teams.rst
+   msd-graduateschool
 
 
 
