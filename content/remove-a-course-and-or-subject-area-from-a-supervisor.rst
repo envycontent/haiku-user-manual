@@ -1,12 +1,12 @@
-Remove a Course and/or Subject Area to a Supervisor
-===================================================
+Remove a Course and/or Subject Area from a Supervisor
+=====================================================
 
-Courses and subject areas are allocated to a supervisor from their profile page. This shows you how to remove these. 
+Courses and subject areas are allocated to a supervisor on their profile. This shows you how to remove these. 
 
 Edit supervisor's profile
 -------------------------
 
-.. image:: images/remove-a-course-and-or-subject-area-to-a-supervisor/edit-supervisor-s-profile.png
+.. image:: images/remove-a-course-and-or-subject-area-from-a-supervisor/edit-supervisor-s-profile.png
    :alt: 
    :height: 355px
    :width: 523px
@@ -21,7 +21,7 @@ Go the supervisor's profile. To edit:
 MSD Study
 ---------
 
-.. image:: images/remove-a-course-and-or-subject-area-to-a-supervisor/msd-study.png
+.. image:: images/remove-a-course-and-or-subject-area-from-a-supervisor/msd-study.png
    :alt: 
    :height: 343px
    :width: 546px
@@ -30,7 +30,10 @@ MSD Study
 
 Click **MSD Study**.
 
-.. image:: images/remove-a-course-and-or-subject-area-to-a-supervisor/852d5a93-f6e8-49f2-97f9-99f1a28b2236.png
+Remove Course or Subject Area
+-----------------------------
+
+.. image:: images/remove-a-course-and-or-subject-area-from-a-supervisor/remove-course-or-subject-area.png
    :alt: 
    :height: 523px
    :width: 1032px
@@ -44,3 +47,10 @@ To remove a course or subject area:
 #. Highlight the course or subject area.
 #. Click the bottom arrow.
 #. Click the **Save** button. 
+
+Further information
+-------------------
+
+#. :doc:`Add a Course or Subject Area to a Supervisor <add-a-course---subject-area-to-a-supervisor>`
+#. :doc:`Add a Supervisor to a Doctoral Training Centre Structured Degree Course <add-a-supervisor-to-a-doctoral-training-centre-course>`
+
