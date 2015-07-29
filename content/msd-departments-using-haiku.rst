@@ -9,7 +9,6 @@ July 2015
 * `Nuffield Department of Clinical Neurosciences <http://www.ndcn.ox.ac.uk/>`_ 		
 * `Department of Experimental Psychology <http://www.psy.ox.ac.uk>`_	
 * `Nuffield Department of Obstetrics and Gynaecology <http://www.obs-gyn.ox.ac.uk>`_ 	
-* `Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences <http://www.ndorms.ox.ac.uk>`_ (in development)
 * `Department of Paediatrics <http://www.paediatrics.ox.ac.uk>`_ 	
 * `Department of Physiology, Anatomy and Genetics <http://www.dpag.ox.ac.uk>`_ 	
 * `Nuffield Department of Population Health <http://www.ndph.ox.ac.uk>`_ 		
@@ -22,4 +21,4 @@ July 2015
 Further information
 -------------------
 
-Add a New Supervisor to the MSD Graduate School
+:doc:`Add a New Supervisor to the MSD Graduate School <add-a-new-supervisor>`
