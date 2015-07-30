@@ -55,42 +55,20 @@ Remote publisher
 #. Paste the web address of the profile into the **Full URL of remote item** box.
 #. Click the **Continue >>** button.
 
-.. image:: images/add-a-new-supervisor/de5a1407-6392-4e8b-8218-33655cd022ca.png
+Assign supervisor category
+--------------------------
+
+.. image:: images/add-a-new-supervisor/assign-supervisor-category.png
    :alt: 
    :height: 420px
    :width: 501px
    :align: center
 
 
-Click the **Create** button.
+Scroll down to the bottom of the page:
 
-Edit profile
-------------
-
-.. image:: images/add-a-new-supervisor/edit-profile.png
-   :alt: 
-   :height: 155px
-   :width: 409px
-   :align: center
-
-
-Type **/edit** on the end of the web address and press your Enter key. 
-
-Supervisor category
--------------------
-
-.. image:: images/add-a-new-supervisor/supervisor-category.png
-   :alt: 
-   :height: 625px
-   :width: 548px
-   :align: center
-
-
-Scroll down the page to the **Categories** section. Items in the left column are available profile category types. Items in the right column are categories applied to the profile.
-
-#. Higlight **Supervisor.**
-#. Click on the top arrow to move the Supervisor into the right hand column.
-#. Click **Save**. 
+#. Select the **Supervisor** box to turn the profile into the a supervisor.
+#. Click **Create**.
 
 Publish profile
 ---------------
