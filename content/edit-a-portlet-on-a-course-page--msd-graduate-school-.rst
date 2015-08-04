@@ -1,7 +1,7 @@
 Edit a Portlet on a Course Page (MSD Graduate School)
 =====================================================
 
-Portlets provide links to futher information on course pages. These are located on the left hand side of the page. 
+Portlets provide links to futher information on course pages. These are located on the right of the page. 
 
 Manage portlets
 ---------------
