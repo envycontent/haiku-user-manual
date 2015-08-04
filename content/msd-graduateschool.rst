@@ -11,6 +11,7 @@ MSD Graduate School
    assign-subject-areas-to-courses.rst
    edit-a-portlet-on-a-course-page--msd-graduate-school-.rst
    add-a-document-to-the-doctoral-training-centre.rst
+   delete-a-document-from-the-doctoral-training-centre.rst
    add-a-new-supervisor.rst
    add-a-supervisor-s-research-interests-to-their-profile.rst
    add-a-course---subject-area-to-a-supervisor.rst

@@ -49,7 +49,7 @@ Upload document
    :align: center
 
 
-#. Add a title for your document
+#. Add a title for your document.
 #. The description is displayed in search results making them more meaningful to users of the site.
 #. Click **Browse ...** and upload your file.
 #. Click **Save**. 
@@ -59,4 +59,4 @@ The document is now available to link to. For example, from a portlet on a cours
 Further information
 -------------------
 
-:doc:`Edit a portlet on a course page (MSD Graduate School) <edit-a-portlet-on-a-course-page--msd-graduate-school-.rst>`
+:doc:`Edit a portlet on a course page (MSD Graduate School) <edit-a-portlet-on-a-course-page--msd-graduate-school->`

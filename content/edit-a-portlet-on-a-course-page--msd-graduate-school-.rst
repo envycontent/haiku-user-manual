@@ -27,7 +27,7 @@ Static text portlet
    :align: center
 
 
-Click on **Static text**.
+Click the **Static text **portlet link.
 
 Edit portlet
 ------------
