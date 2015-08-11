@@ -7,6 +7,7 @@ MSD Support & Services
    
    msd-style-guide.rst
    msd-profiles.rst
+   overview-msd-teams.rst
 
 
 
