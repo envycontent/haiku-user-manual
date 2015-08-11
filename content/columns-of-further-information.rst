@@ -5,7 +5,7 @@ Columns enable you to add additional information to your team pages.
 
 There are three type of columns:
 
-#. **Content column** where content is created in the column - eg webpages, links to internal or external website and documents. 
+#. **Content column** where content is created in the column - eg webpages, links to internal or external website and documents. 
 #. **List of items column** where content is pulled in from other parts of the MSD website - eg a list of profiles or news items.   
 #. **FAQs column** 
 
