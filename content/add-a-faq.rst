@@ -24,7 +24,7 @@ Click **Contents** on the toolbar at the top of the page.
    :align: center
 
 
-Select your** FAQs **section which will show you a list of all your FAQs:
+Select your **FAQs** section which will show you a list of all your FAQs:
 
 .. image:: images/add-a-faq/c5b3b343-59b1-401c-a42a-1d6099116862.png
    :alt: 
@@ -43,7 +43,7 @@ Add FAQ
    :align: center
 
 
-Click on **Add new...** on the toolbar at the top of the page and select **FAQ Item**.
+Click **Add new...** on the toolbar at the top of the page and select **FAQ Item**.
 
 FAQ
 ---

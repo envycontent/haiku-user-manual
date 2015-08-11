@@ -52,5 +52,5 @@ Further information
 -------------------
 
 * :doc:`Add a Profile to a Column Listing Profiles <add-a-profile-to-a-column-listing-profiles>`
-* :doc:`Change the Order of Profiles in a Column Listing Profiles <change-the-order-of-profiles-in-a-profiles-listing-column>` 
+* :doc:`Change the Order of Profiles in a Column Listing Profiles <change-the-order-of-profiles-in-a-column-listing-profiles>`
 * :doc:`Change the Title of a Column <change-a-column-title>`
