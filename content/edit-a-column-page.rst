@@ -1,7 +1,7 @@
 Edit a Column Page
 ==================
 
-This shows you how to edit a page which is listed in one of the columns on your team page. 
+This shows you how to edit a page from one of the columns on your page. 
 
 Select page
 -----------
@@ -13,7 +13,7 @@ Select page
    :align: center
 
 
-Click the title of the page you would like to edit. 
+Click the title of the page you would like to edit to open the page.
 
 Edit
 ----
@@ -27,17 +27,26 @@ Edit
 
 Click **Edit** on the toolbar at the top of the page.
 
-.. image:: images/edit-a-column-page/856e315e-7b2f-49c8-b956-57cba080dd52.png
+Make changes
+------------
+
+.. image:: images/edit-a-column-page/make-changes.png
    :alt: 
    :height: 1485px
    :width: 980px
    :align: center
 
 
-#. Title
-#. Short title
-#. Summary
-#. Main content 
-#. Image - banner style image across the top of the page (see ...... for full details of this)
-#. Click **Save**
+#. Page title - it is best to keep these short. 
+#. Short title - with the current set up of the columns this is only relevant when setting up a new page. 
+#. Page summary - this forms the first paragraph of your page and displays in a slightly larger font than the rest of the page. It will also display in the column under the page title and in search results. Adding a summary helps users assess whether this is the information they are looking for. 
+#. Edit the main content of your page. 
+#. You can add / replace an image which will display across the top of your page. This must be 702 x 336 pixels. 
+#. Click the **Save** button
 
+Further information
+-------------------
+
+* :doc:`Create an Internal Link <Create_an_Internal_Link>`
+* :doc:`Create a Link to an External Website <Create_a_Link_to_an_External_Website>`
+* :doc:`Create an Email Link <create-an-email-link>`
