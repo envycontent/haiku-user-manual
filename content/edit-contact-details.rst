@@ -25,7 +25,7 @@ Edit contact details
    :align: center
 
 
-Move your cursor over the main description area to reveal an **Edit** button. Click the **Edit** button to go to the editing interface.
+Move your cursor over the contact details area to reveal an **Edit** button. Click the **Edit** button to go to the editing interface.
 
 .. image:: images/edit-contact-details/dc7019bb-770b-480d-9dc7-99c85bd52ffa.png
    :alt: 
