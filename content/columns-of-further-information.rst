@@ -36,11 +36,16 @@ More information
 * :doc:`Add a Link to a Column <add-a-link-to-a-column>`
 * :doc:`Add a Document to a Column <add-a-document-to-a-column>`
 
-**List of items columns**
+**List of items columns:**
+
+* :doc:`Add an Item to a List of Items Column <add-an-item-to-a-list-of-items-column>`
+* :doc:`Remove an Item from a List of Items Column <remove-an-item-from-a-list-of-items-column>`
+
+**Profile columns (currently used on the Medical School team page):**
 
 * :doc:`Remove Profiles from a Column Listing Profiles <remove-profiles-from-a-column-listing-profiles>`
 * :doc:`Add a Profile to a Column Listing Profiles <add-a-profile-to-a-column-listing-profiles>`
-* :doc:`Change the Order of Profiles in a Column Listing Profiles <change-the-order-of-profiles-in-a-profiles-listing-column>`
+* :doc:`Change the Order of Profiles in a Column Listing Profiles <change-the-order-of-profiles-in-a-column-listing-profiles>`
 
 **FAQs**
 
