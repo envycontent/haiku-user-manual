@@ -4,7 +4,7 @@ Profiles
 .. toctree::
    :maxdepth: 2
    
-   Create_a_New_Profile.rst
+   create-a-new-profile.rst
    add-a-remote-profile.rst
    Sync_a_Remote_Profile_Manually.rst
    Change_a_Full_Profile_to_a_Stub_Profile.rst
