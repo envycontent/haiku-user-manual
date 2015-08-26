@@ -40,6 +40,7 @@ Contents columns:
 
 * :doc:`Edit a Column Page <edit-a-column-page>`
 * :doc:`Add a Webpage to a Column <add-a-column-page>`
+* :doc:`Add an Image to a Column Page <add-an-image-to-a-column-page>`
 * :doc:`Add a Link to another Website to a Column <add-a-link-to-a-column>`
 * :doc:`Add a Document to a Column <add-a-document-to-a-column>`
 * :doc:`Change the Display Order of Webpages, Links and Documents <change-the-display-order-of-webpages--links-or-documents-in-a-column>`

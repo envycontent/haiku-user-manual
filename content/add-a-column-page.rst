@@ -15,10 +15,10 @@ Contents
 
 Click **Contents** on the toolbar at the top of the screen on your team page. 
 
-.. image:: images/add-a-column-page/75d458da-9002-4b19-a945-57e6548c105b.png
+.. image:: images/add-a-column-page/26496540-580b-4130-940a-18524ec552f1.png
    :alt: 
-   :height: 423px
-   :width: 700px
+   :height: 311px
+   :width: 635px
    :align: center
 
 
@@ -36,6 +36,8 @@ Column contents
    :align: center
 
 
+This list all the pages, links and documents in the column. 
+
 Add new web page
 ----------------
 
@@ -46,9 +48,12 @@ Add new web page
    :align: center
 
 
-Click **Add new...** and select **Web Page**.
+To add a new page click **Add new...** on the toolbar at the top of the page and select **Web Page**.
 
-.. image:: images/add-a-column-page/c8ff2a57-6683-4d39-a4ae-8d9a7e9d38f3.png
+Add page details
+----------------
+
+.. image:: images/add-a-column-page/add-page-details.png
    :alt: 
    :height: 1251px
    :width: 965px
@@ -56,10 +61,44 @@ Click **Add new...** and select **Web Page**.
 
 
 #. Enter the name of your page. It is best to keep page names short.
-#. Short title. If you enter a short title this will form the last part of the web address
-#. Page summary
-#. Main content of the page
+#. Short title. If you enter a short title this will form the last part of the web address - the part after your team name. 
+#. Page summary - this forms the first paragraph of your page and displays in a slightly larger font than the rest of the page. It will also display in the column under the page title and in search results. Adding a summary helps users assess whether this is the information they are looking for. 
+#. Add the main content of the page. 
 #. Click the **Save** button
 
-Futher information
-------------------
+Publish the page
+----------------
+
+.. image:: images/add-a-column-page/publish-the-page.png
+   :alt: 
+   :height: 350px
+   :width: 459px
+   :align: center
+
+
+You need to publish the page to make it visible to your website visitors. 
+
+Click **State:** on the right of the toolbar at the top of the page and select **Publish**.
+
+Published
+---------
+
+.. image:: images/add-a-column-page/published.png
+   :alt: 
+   :height: 319px
+   :width: 403px
+   :align: center
+
+
+You will see that the state has now changed to **Published**.
+
+New links are added to the bottom of the column. To change this see the guide below. 
+
+Further information
+-------------------
+
+* :doc:`Create an Internal Link <Create_an_Internal_Link>`
+* :doc:`Create a Link to an External Website <Create_a_Link_to_an_External_Website>`
+* :doc:`Create an Email Link <create-an-email-link>`
+* :doc:`Unpublish a Page <Unpublish_your_Webpage>` 
+* :doc:`Add an Image to a Column Page <add-an-image-to-a-column-page>`

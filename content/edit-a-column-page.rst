@@ -49,4 +49,5 @@ Further information
 
 * :doc:`Create an Internal Link <Create_an_Internal_Link>`
 * :doc:`Create a Link to an External Website <Create_a_Link_to_an_External_Website>`
-* :doc:`Create an Email Link <create-an-email-link>`
+* :doc:`Create an Email Link <create-an-email-link>` 
+* :doc:`Add an Image to a Column Page <add-an-image-to-a-column-page>`
