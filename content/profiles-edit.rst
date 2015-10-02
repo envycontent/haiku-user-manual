@@ -7,6 +7,7 @@ Profiles
    
    Select_and_Arrange_your_Key_Publications.rst
    Remove_a_Key_Publication.rst
+   add-a-tagline-to-your-profile
    hide-publications.rst
    symplectic.rst
    add-a-text-tile-to-your-profile.rst

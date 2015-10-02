@@ -9,7 +9,7 @@ This shows you how to create profiles for new members of staff. You can create t
 
 3. External profiles give you a way of including team members from other institutions - you can link their profile to information about them on an external website. 
 
-You can also create remote profiles which allow you to include profiles on your site from other Haiku website. See the :doc:`Add a Remote Profile <add-a-remote-profile>`** **guide for details of how to do this. 
+You can also create remote profiles which allow you to include profiles on your site from other Haiku website. See the :doc:`Add a Remote Profile <add-a-remote-profile>` guide for details of how to do this. 
 
 Our team 
 ---------
