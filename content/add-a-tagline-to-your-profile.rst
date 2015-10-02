@@ -1,7 +1,7 @@
 Add a Tagline to your Profile
 =============================
 
-Taglines give you the opportunity to have a short one line summary of your research interests on your profile. 
+A tagline gives you the opportunity to have a short one line summary of your research interests on your profile. 
 
 If you are a supervisor your tagline will also appear on lists of supervisors on the MSD Graduate School website. These provide prospective students with an easy way to scan the options available. 
 
