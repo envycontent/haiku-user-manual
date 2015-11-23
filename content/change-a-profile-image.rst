@@ -1,7 +1,7 @@
 Change a Profile Image
 ======================
 
-This shows you how to replace an image on a profile. If you want to delete an image without replacing it please login to the helpdesk to ask for it to be removed. 
+This shows you how to replace an image on a profile. If you want to delete an image without replacing it please login to the helpdesk and ask for it to be removed. 
 
 Go to profile
 -------------
