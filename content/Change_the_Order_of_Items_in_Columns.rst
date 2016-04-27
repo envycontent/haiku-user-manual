@@ -2,6 +2,9 @@
 Change the Order of Items in Columns
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can change the order of items in your columns on research group pages. When you add a new item it is added to the bottom of the column - this shows you how to change this. 	
 
 Manage column

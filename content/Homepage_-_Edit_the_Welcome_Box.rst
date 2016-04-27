@@ -2,6 +2,9 @@
 Homepage - Edit the Welcome Box
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This shows you how to edit the Welcome box under the slideshow on the left hand side of your homepage. In this example we will add a Find out more arrow link to the about us section of the site. 	
 
 Edit homepage

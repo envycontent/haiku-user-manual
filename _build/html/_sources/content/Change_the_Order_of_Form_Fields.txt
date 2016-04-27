@@ -2,6 +2,9 @@
 Change the Order of Form Fields
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can change the order of fields in your form. This shows you how to do this. 	
 
 Form Contents

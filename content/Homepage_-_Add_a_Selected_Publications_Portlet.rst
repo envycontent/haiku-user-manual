@@ -2,6 +2,9 @@
 Homepage - Add a Selected Publications Portlet
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can display publications on the homepage. You have the choice to either display the most recent publications or a number of selected publications. This shows you how to display selected publications on your homepage by setting up a Selected Publications Portlet. 	
 
 Select Portlets

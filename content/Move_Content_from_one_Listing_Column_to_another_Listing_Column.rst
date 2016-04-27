@@ -2,7 +2,7 @@
 Move Content from one Listing Column to another Listing Column
 ======================================================================================================
 
-
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 .. image:: images/Move_Content_from_one_Listing_Column_to_another_Listing_Column/media_1403853419148.png

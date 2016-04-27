@@ -2,6 +2,9 @@
 Change the Link Name in the Lefthand Navigation Bar
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 By default the link name for a page on the lefthand navigation is the same as the title of the page. You might want to change this - for example if the page title is quite long. 
 
 In this example we will change the link on the left hand navigation from **Medical Sciences Division Committees** to **Committees**. 	

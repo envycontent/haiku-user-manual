@@ -2,6 +2,9 @@
 Delete a Download Tile from your Profile
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This shows you how to delete a download tile from your profile. If you would like to delete a document rather than the whole tile please see the Delete a Document from your Profile tutorial.	
 
 Edit your profile

@@ -2,6 +2,9 @@
 Remove a Key Publication
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can list up to five publications under the Key Publications list. This shows you how to remove one of these publications. 
 Removing the publications from your list of Key Publications doesn't delete the publication - it will still be included in the list of all your publications. 	
 

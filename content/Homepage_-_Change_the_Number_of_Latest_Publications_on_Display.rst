@@ -2,6 +2,9 @@
 Homepage - Change the Number of Latest Publications on Display
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can choose how many of your department's latest publications you would like to display on your homepage. If you would prefer to select specific publications rather than displaying the most recent publications see the tutorials on the Selected publications portlet. 	
 
 Select Portlets

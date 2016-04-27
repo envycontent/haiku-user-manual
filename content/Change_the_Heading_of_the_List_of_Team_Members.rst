@@ -2,6 +2,9 @@
 Change the Heading of the List of Team Members
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can change the heading of the list of team members on Research Group pages, which by default is Our Team. This shows you how to do this.  	
 
 Edit Research Group page

@@ -3,7 +3,7 @@ Add / Edit Contact Details
 ======================================================================================================
 
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 Shows you how to change the contact details on a research group page. You need to log in first. If you are unsure how to do this go to **Log in to your site with single sign on** guide in the Getting Started section.	
 

@@ -2,6 +2,9 @@
 Homepage - Change the Number of News Items on Display
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can choose how many news items you would like to display on your homepage. This shows you how to do this. 	
 
 Homepage Portlets

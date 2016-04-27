@@ -2,6 +2,9 @@
 Remove a Research Group Member
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Shows you how to remove a group member from the team list on a research group page.	
 
 Research Group page

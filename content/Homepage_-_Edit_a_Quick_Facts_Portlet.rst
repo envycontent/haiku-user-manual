@@ -2,6 +2,9 @@
 Homepage - Edit a Quick Facts Portlet
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Quick Facts enable you to draw attention to key department information. They should be short and prefereably include a number which can be highlighted to draw your site visitors to the Quick Facts box. This shows you how to edit the Quick Facts on your homepage. 	
 
 Select Portlets

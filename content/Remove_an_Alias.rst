@@ -2,6 +2,9 @@
 Remove an Alias
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This show you how to delete an alias which has been set up as an additional web address for a page.	
 
 Find your page

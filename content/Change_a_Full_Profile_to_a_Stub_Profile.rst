@@ -2,6 +2,9 @@
 Change a Full Profile to a Stub Profile
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This shows you how to change a full profile into a stub profile. If content has been added to a full profile this won't be lost when the profile type is changed. If a profile is changed back into a full profile this content will be available.	
 
 Find profile

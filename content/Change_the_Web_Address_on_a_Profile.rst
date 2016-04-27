@@ -2,6 +2,9 @@
 Change the Web Address on a Profile
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Shows you how to change the name part of a profile's web address (eg: the nicole-harris part of the following profile web address: www.medsci.ox.ac.uk/team/administration/nicole-harris).
 
 If you would like to change the whole web address (eg: so that the profile at: www.medsci.ox.ac.uk/team/administration/nicole-harris is available at: www.medsci.ox.ac.uk/nicole-harris) you need to set up an alias. See the **Set up an Alias / Give a Page an Alternate Web Address** guide for details. 	

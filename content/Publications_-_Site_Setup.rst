@@ -2,6 +2,9 @@
 Publications - Site Setup
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 The Publications page on the Site Setup menu gives you several options for the administration of publications on your website. This explains how these options work. 	
 
 Go to Site Setup

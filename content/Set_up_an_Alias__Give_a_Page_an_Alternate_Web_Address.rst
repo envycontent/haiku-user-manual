@@ -2,6 +2,9 @@
 Set up an Alias / Give a Page an Alternate Web Address
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Setting up an alias enables you to give a page an alternate web address. This can be used, for example, if you wish to have a simpler or shorter web address for publicity material or if you have moved the location of a page and would like set up the old web address as an additional address.
 
 In this example we will give an Events page a shorter web address.	

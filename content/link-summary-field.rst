@@ -1,6 +1,9 @@
 Link Summary Field
 ==================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 The link summary field will display on the pages listing the link, in columns and on search results, as show in the examples below.
 
 Incuding a description of the link in the summary field will help people assess whether this is the information they are looking for. 

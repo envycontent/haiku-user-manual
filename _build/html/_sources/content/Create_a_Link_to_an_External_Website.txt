@@ -2,6 +2,9 @@
 Create a Link to an External Website
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can create links to external website, to pages within your site and to email addresses. This shows you how to link to an external website.	
 
 Go to your page

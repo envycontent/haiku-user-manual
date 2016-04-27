@@ -2,6 +2,9 @@
 Our Team Display Options
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 There are three display options for the Our Team section - columns, rows and tabs. This shows you the different options and the how to change the display. 	
 
 Columns

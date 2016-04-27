@@ -2,6 +2,9 @@
 Move a Team Member from one Section to another
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can move team members from one column to another in the Our team section using the cut and paste functions in the Contents display. This shows you how. 	
 
 Our team - Contents display

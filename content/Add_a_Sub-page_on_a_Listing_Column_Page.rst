@@ -2,7 +2,7 @@
 Add a Sub-page on a Listing Column Page
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 You can create a series of sub-pages linking from a page in a listing column. These will be linked to from the column left hand navigation as shown below:	

@@ -2,6 +2,9 @@
 Research Section Display Options
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 On the main page of the Research section you can choose whether you would like to display your Research Themes, Research Groups or Research Themes and Groups in the grid of images.  
 
 If you choose to have both Research Themes and Groups on this page you can display the Themes and Group in tabs or on the same page. 	

@@ -2,7 +2,7 @@
 Add an Image into the Main Text of your Page
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 This shows you how to add an image into the main text content of your page. You need to upload the image to the Image Library first. See the **Upload an Image to the Image Library** guide if you need instructions on how to do this. 	

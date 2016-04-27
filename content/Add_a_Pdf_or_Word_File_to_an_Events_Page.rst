@@ -2,7 +2,7 @@
 Add a Pdf or Word File to an Events Page
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 There are two steps to adding a Pdf or Word file to your Events Page. You need to upload the file to be attached. Then you need to edit the content of your page to add a link to the file that you have just uploaded. 	

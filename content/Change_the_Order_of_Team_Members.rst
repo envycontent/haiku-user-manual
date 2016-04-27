@@ -2,6 +2,9 @@
 Change the Order of Team Members
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 There are two ways in which you can change the order of the Team Members in the Our team section; either by choosing how many places in the list you would like to move the person or by dragging and dropping the name to the required place. 	
 
 Our Team section

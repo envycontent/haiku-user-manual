@@ -2,6 +2,9 @@
 Homepage - Add a Static Text Portlet
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 A Static Text Portlet enables you to add a text box with a link to another part of your site.	
 
 Portlets

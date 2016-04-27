@@ -2,7 +2,7 @@
 Add a Lead Image to a Research Theme
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 If you add a Lead Image to a Research Theme this will display on research theme listings as shown below. If you don't add a Lead Image these listings use the image from the Research Theme page. 	

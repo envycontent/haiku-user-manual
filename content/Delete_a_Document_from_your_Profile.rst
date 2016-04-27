@@ -2,6 +2,9 @@
 Delete a Document from your Profile
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This show you how to delete a document that you have uploaded to your profile.	
 
 Edit profile

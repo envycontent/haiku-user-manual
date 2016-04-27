@@ -3,7 +3,7 @@ Add a Link to a Lisiting Column
 ======================================================================================================
 
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 This shows you how to add a link to a listing column on a Research Group page. 	
 

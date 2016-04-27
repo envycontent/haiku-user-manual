@@ -1,6 +1,9 @@
 Hide Profiles by Type in the Our Team Section
 =============================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can prevent types of profiles (stub, external or full) from displaying in the Our Team section. The profiles will be available to add to and display on Research Group pages. 
 
 Edit Team

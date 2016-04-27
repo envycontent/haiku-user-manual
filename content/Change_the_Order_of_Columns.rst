@@ -2,6 +2,9 @@
 Change the Order of Columns
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Shows you how to change the order in which columns are displayed on your research group page. By default columns are displayed in the order they were added. 	
 
 Switch to Contents mode
