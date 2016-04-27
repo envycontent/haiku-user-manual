@@ -2,7 +2,7 @@ Homepage
 ========
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Homepages are being replaced by cover pages - see: `https://fry-it.atlassian.net/wiki/display/HKB/Cover+pages <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_ for details**
+**Homepages are being replaced by cover pages - see: `Coverpages <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_ for details**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 .. toctree::
