@@ -2,7 +2,7 @@
 Add a Download Tile to your Profile
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 You can upload documents to your profile for your website visitors to download. The maximum size per file is 5MB. Before you can upload documents you need to add a Download Tile to your Profile. This shows you how to do this. 	

@@ -2,6 +2,9 @@
 Log In to Your Site with Single Sign On
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 How to log in to the website. Your single sign on username and password are the ones you use for your Oxford Nexus email account.	
 
 Click the log in link

@@ -2,6 +2,9 @@
 Research Group Overview
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 A research group page acts as a 'business card' for your research group, with links to the group members and publications. It's also possible to add up to three columns for additional information like specific projects. If you want, these columns can contain links to further pages belonging to your group.	
 
 Finding your way around

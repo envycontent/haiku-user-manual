@@ -2,6 +2,9 @@
 Homepage - Add Latest News Portlet
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can display your news on the homepage of your website. To do this you need to add a Latest News Portlet to the homepage. You can specify the number of news items you would like to display. This shows you how to do this. 	
 
 Select Portlets link

@@ -2,7 +2,7 @@
 Add a Page to About Us
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 How to put an additional page into the About Us section. This is straightforward, but you need to know that you're in the right place before adding the page.	

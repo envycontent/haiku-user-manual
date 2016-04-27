@@ -1,8 +1,6 @@
 Remove an Item from a List of Items Column
 ==========================================
 
-.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
-
 
 A list of items columns enables you to add items from other parts of the website to your team page. This shows you how to remove an item from your team page. 
 

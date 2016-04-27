@@ -1,8 +1,6 @@
 Add an Image to a Column Page
 =============================
 
-.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
-
 
 You can add a banner style image across the top of a column webpage. This image needs to be 702 pixels wide x 336 pixels high. 
 

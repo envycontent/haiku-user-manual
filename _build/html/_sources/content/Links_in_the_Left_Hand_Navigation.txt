@@ -2,6 +2,9 @@
 Links in the Left Hand Navigation
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can add a link to another section of your website or an external website in the lefthand navigation:	
 
 

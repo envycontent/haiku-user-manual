@@ -2,6 +2,9 @@
 Homepage - Add Quick Facts Portlet
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 The Quick Facts box provides you with a straighforward way to draw attention to key information. Quick facts should be short and preferably include a number which can be highlighted to draw your site visitors to the Quick Facts box. This shows you how to add a Quick Facts portlet to your homepage. 	
 
 Select Portlets

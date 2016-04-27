@@ -2,7 +2,7 @@
 Choose the Date Format on Event Pages
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 You can choose whether dates on events on your site display with or without ordinals eg.  1st April or 1 April**.**

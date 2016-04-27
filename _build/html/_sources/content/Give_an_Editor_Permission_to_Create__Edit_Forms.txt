@@ -2,6 +2,9 @@
 Give an Editor Permission to Create / Edit Forms
 ======================================================================================================
 
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 By default permissions to create forms are limited to Site Administrators (the level of access Editors-in-Chief have). This shows you how to give access to the forms section to other editors. 	
 
 Forms library

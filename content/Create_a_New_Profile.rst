@@ -1,7 +1,7 @@
 Create a New Profile
 ====================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 This shows you how to create profiles for new members of staff. You can create three different types of profiles: 

@@ -2,7 +2,7 @@
 Contents, View and Edit buttons
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 The tool bar at the top of the screen gives you access to the various editing functions that you will need. This tutorial looks at the **Contents, View and Edit** buttons. These are the buttons that you will be using most when you make changes to your site. 	
