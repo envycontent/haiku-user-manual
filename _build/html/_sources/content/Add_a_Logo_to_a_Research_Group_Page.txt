@@ -2,6 +2,9 @@
 Add a Logo to a Research Group Page
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Logos appear at the top of a Research Group page next to the contact details. Logos should be 60 pixels high. This shows you how to add the logo below:	
 
 Group logos
