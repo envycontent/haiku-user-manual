@@ -4,6 +4,7 @@ Homepage
 .. toctree::
    :maxdepth: 2
    
+   Homepages are being replaced by cover pages - see: https://fry-it.atlassian.net/wiki/display/HKB/Cover+pages for details
    Slideshow_-_Add_a_New_Slide_to_your_Slideshow.rst
    Slideshow_-_Change_the_Image_on_a_Slide.rst
    Homepage_-_Edit_the_Welcome_Box.rst
