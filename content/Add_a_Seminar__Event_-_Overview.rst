@@ -2,6 +2,9 @@
 Add a Seminar / Event - Overview
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This gives you a general overview of how to add a new seminar. The event title and date are compulsory; all the other fields are optional. 	
 
 Go to the Seminars section

@@ -2,6 +2,7 @@
 Upload an Image to the Image Management System (IMS)
 ======================================================================================================
 
+
 Shows you how to upload an image to the `Image Management System <http://images.oxfordmedsci.org.uk>`_. You can also upload folders of images. If you don't have an account for the Image Management System please contact your Editor in Chief in the first instance. 	
 
 Upload

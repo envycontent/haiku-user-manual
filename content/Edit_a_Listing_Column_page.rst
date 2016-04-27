@@ -2,6 +2,9 @@
 Edit a Listing Column page
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 How to edit an existing Listing Column page. 	
 
 Listing Column page

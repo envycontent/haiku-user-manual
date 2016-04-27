@@ -2,6 +2,9 @@
 Edit a Form Thank You Page
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 When you set up a form there is a standard thank you page. This shows you how to edit this page. 	
 
 Form Contents

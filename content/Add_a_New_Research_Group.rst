@@ -2,6 +2,9 @@
 Add a New Research Group
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Shows you how to add a new Research Group to the website. You need to log into the site first. 	
 
 Add new option
