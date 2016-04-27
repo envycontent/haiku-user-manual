@@ -12,7 +12,6 @@ Editors in Chief
    team.rst
    research.rst
    monitor.rst
-   informationarchitecture.rst
 
 
 
