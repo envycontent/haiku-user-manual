@@ -2,6 +2,9 @@
 Add a News Item
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This shows you how to add a new News Item to your website. 	
 
 Add new News Item

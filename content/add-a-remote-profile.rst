@@ -1,6 +1,9 @@
 Add a Remote Profile
 ====================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 A remote profile enables you to add a profile from another Haiku website in your team listing. Changes made to the original profile are updated overnight on the remote profile. 
 
 Find profile

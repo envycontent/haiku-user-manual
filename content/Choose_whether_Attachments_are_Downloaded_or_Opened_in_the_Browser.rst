@@ -2,6 +2,9 @@
 Choose whether Attachments are Downloaded or Opened in the Browser
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can choose whether attachments (eg Pdf or Word documents) uploaded to your site open in the browser window or download. 	
 
 Site Setup

@@ -2,6 +2,9 @@
 Slideshow - Change the Image on a Slide
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This shows you how to change the image on an existing slide on your homepage. 	
 
 Select Slideshow

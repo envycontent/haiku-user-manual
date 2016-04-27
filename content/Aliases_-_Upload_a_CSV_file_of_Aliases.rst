@@ -2,6 +2,12 @@
 Aliases - Upload a CSV file of Aliases
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 Aliases give you the option to provide an alternative web address for a page on your website. 
 If you wish to create a number of aliases you might find it easier to upload a CSV file of aliases rather than creating aliases for each page individually. This shows you how to do this. (For details on how to set up aliases for a single page see the Set up an Alias / Give a Page an Alternate Web Address guide.)	
 

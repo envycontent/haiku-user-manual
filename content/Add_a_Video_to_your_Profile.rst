@@ -2,6 +2,9 @@
 Add a Video to your Profile
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can add a YouTube video to your profile.	
 
 Edit profile

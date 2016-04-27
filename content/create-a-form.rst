@@ -1,6 +1,9 @@
 Create a Form
 =============
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 This provides you with an overview of how to create a form. 
 
 See also:

@@ -2,6 +2,9 @@
 Add a YouTube Video to an About Us page
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can add YouTube videos to your site. This shows you how to add a video to an About Us page.	
 
 Find your YouTube video

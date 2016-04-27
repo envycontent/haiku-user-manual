@@ -2,6 +2,9 @@
 Upload, Rename and Arrange Documents on your Profile
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can upload documents to your profile for people to download. To do this you need to have added a Download tile. If you haven't already done this see the Add a Download Tile to your Profile tutorial. 
 Documents must be smaller than 5MB. 	
 

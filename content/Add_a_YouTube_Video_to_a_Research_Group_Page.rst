@@ -2,6 +2,9 @@
 Add a YouTube Video to a Research Group Page
 ======================================================================================================
 
+.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+
+
 You can include a YouTube video on a Research Group page instead of an image as shown below. This show you how to do this. 
 
 If you have uploaded an image and have a link to a YouTube video the video will be displayed on your page rather than the image. 	

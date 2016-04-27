@@ -1,6 +1,7 @@
 Change the Order of Team Members
 ================================
 
+
 This shows you how to change the order of team members in the **Our Team** section of your team page.
 
 Edit team page

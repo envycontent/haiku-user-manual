@@ -1,6 +1,7 @@
 Columns of Further Information
 ==============================
 
+
 Columns enable you to add additional information to your team pages. 
 
 There are three type of columns:
