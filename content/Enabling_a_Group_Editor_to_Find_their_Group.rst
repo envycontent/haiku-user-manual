@@ -2,7 +2,7 @@
 Enabling a Group Editor to Find their Group
 ======================================================================================================
 
-.. note:: these user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 **WHY:** If your whole site is still unpublished it is difficult for your group editor to find their group. If your research section is published then you don't need to worry about this.	
