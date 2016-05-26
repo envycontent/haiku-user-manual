@@ -13,7 +13,7 @@ All Courses
    :align: center
 
 
-Go to the **All Courses** section of the website - `https://www.medsci.ox.ac.uk/study/skillstraining/coursecatalogue/allcourses <(https://www.medsci.ox.ac.uk/study/skillstraining/coursecatalogue/allcourses).>`_.
+Go to the **All Courses** section of the website - `https://www.medsci.ox.ac.uk/study/skillstraining/coursecatalogue/allcourses <https://www.medsci.ox.ac.uk/study/skillstraining/coursecatalogue/allcourses>`_.
 
 Add new page
 ------------
