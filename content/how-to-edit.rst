@@ -16,6 +16,7 @@ How to edit...
    forms.rst
    msd-teams.rst
    msd-graduateschool.rst
+   msd-skills-training.rst
 
 
 
