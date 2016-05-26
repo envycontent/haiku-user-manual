@@ -1,7 +1,7 @@
 Hide / Delete a Portlet
 =======================
 
-This show you how to hide or delete a portlet on the right side of a course page.
+This shows you how to hide or delete a portlet on the right side of a course page.
 
 Manage portlets
 ---------------
@@ -27,8 +27,8 @@ Delete or hide portlet
 
 You can:
 
-#. Delete a portlet by clicking the x
-#. Hide the portlet by clicking the Hide button. Use this option if you are likely to use a portlet on the page in the future. 
+#. Delete a portlet by clicking the **x**
+#. Hide the portlet by clicking the **Hide** button. Use this option if you are likely to use a portlet on the page in the future. 
 
 .. image:: images/hide-delete-a-portlet/096dff7a-017f-42df-8c06-358b32034217.png
    :alt: 

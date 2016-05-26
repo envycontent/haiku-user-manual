@@ -22,7 +22,7 @@ Go to the page with the slideshow and click **Compose** on the toolbar at the to
    :align: center
 
 
-Hover over the slideshow to bring up an **Edit **button. Click this button. 
+Hover over the slideshow to bring up an **Edit** button. Click this button. 
 
 Change the order of the slides
 ------------------------------

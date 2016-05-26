@@ -15,7 +15,7 @@ Upload image
    :align: center
 
 
-Go to the images section for the Skills Training slideshow. 
+Go to the images section for the Skills Training slideshow: `https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow <https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow>`_. 
 
 To add a new image click **Add new...** from the toolbar at the top of the screen and select **Image**.
 
@@ -30,8 +30,8 @@ Enter the following information:
 
 #. Title - this forms the text on your slide.
 #. Click **Browse** and upload the image from your computer. The image should be 760px x 389px. The slideshow currently crops the bottom of the images slightly. 
-#. Enter copyright information.
-#. Enter the web address of the page you would like the slide to link to. 
+#. Copyright information.
+#. Web address of the page you would like the slide to link to. 
 #. Click **Save**. 
 
 Add slide to the homepage
@@ -88,5 +88,5 @@ Hovering over the slideshow will bring up an **Edit** button in the top left cor
    :align: center
 
 
-#. Scroll to the bottom of the window and click  the x next to the slide you would like to delete. 
-#. Click Save.
+#. Scroll to the bottom of the window and click  the **x** next to the slide you would like to delete. 
+#. Click **Save**.
