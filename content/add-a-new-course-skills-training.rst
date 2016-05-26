@@ -47,7 +47,7 @@ Click **Add new** from the toolbar at the top of the screen and select Web Page.
 In the **IFrame** box paste: <iframe src="//skillstraining.medsci.ox.ac.uk/skills/skillscourse?courseId=36&bookable=True" frameborder="0" width="100%" height="1300" scrolling='no'></iframe>
 
 #. Change the number (36 in this case) to the ID of your new course.
-#. The height controls the space available for the iFrame on the course page. You might need to reduce or increase this. Start reducing or increasing by 100. 
+#. The height controls the space available for the iFrame on the course page. After saving your page you might find that you need to increase or reduce the available space. To do this change this number (start reducing or increasing by 100). 
 
 .. image:: images/add-a-new-course-skills-training/4c95739b-9f86-4d1e-bd91-93164bee79a3.png
    :alt: 
@@ -56,7 +56,7 @@ In the **IFrame** box paste: <iframe src="//skillstraining.medsci.ox.ac.uk/skill
    :align: center
 
 
-Scroll to the bottom of the page and click Save.
+Scroll to the bottom of the page and click **Save**.
 
 Change web address of page
 --------------------------
@@ -91,7 +91,7 @@ Change to 3 column view
 
 Click **Display** at the top of the page and select **3 columns view**. 
 
-The page needs to be changed to a 3 column view so that it is possible to have portlets on the right of the page to display further information or link to attachments. Changing the display to 3 column view makes the left hand navigation narrower so for consistency all course pages should be given a 3 column view.
+The page needs to be changed to a 3 column view so that it is possible to have portlets on the right of the page to display further information or link to attachments. Changing the display to 3 column view makes the left hand navigation narrower, so for consistency all course pages should be given a 3 column view.
 
 Add page to the course listing
 ------------------------------
@@ -117,6 +117,6 @@ To add a new line to the table:
 #. Click in the line before or after where you would like to add your course.
 #. Click the add row before or after button to add an additional row.
 
-Add you course details and link to the course. 
+Add your course details and link to the course. 
 
-Scroll to the bottom of the page and click Save. 
+Scroll to the bottom of the page and click **Save**. 

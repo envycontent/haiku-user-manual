@@ -1,7 +1,7 @@
 Change the Slide on the Homepage
 ================================
 
-Images for the slideshow on the Skills Training Homepage are stored in: `https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow <https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow>`_ 
+Images for the slideshow on the Skills Training Homepage are stored at: `https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow <https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow>`_ 
 
 This shows you how to add a new slide to the slideshow. You need to upload the image first and then pull it onto the slideshow. 
 

@@ -1,7 +1,7 @@
 Change the Length of the Course iFrame
 ======================================
 
-This shows you how to change the amount of space available on the page for the course information that feeds from the database. 
+This shows you how to change the amount of space available on the page for the course information feeding from the database. 
 
 Edit page
 ---------

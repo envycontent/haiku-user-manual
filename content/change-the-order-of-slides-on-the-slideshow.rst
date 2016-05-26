@@ -49,5 +49,5 @@ Scroll down the editing window to see your slides in the order that they are dis
 
 To change the order of the slides:
 
-#. Move your cursor over the title of the slide you would like to move. You will see a fourway arrow. Click on the title and drag the slide to the position in the list of slides.
+#. Move your cursor over the title of the slide you would like to move. You will see a fourway arrow. Click the title and drag the slide to the position in the list of slides.
 #. Click **Save.**
