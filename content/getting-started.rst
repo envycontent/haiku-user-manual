@@ -2,18 +2,12 @@
 Getting Started
 ===============
 
-.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
+.. note:: These user guides have been replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
 
 
 .. toctree::
    :maxdepth: 2
    
-   Log_In_to_Your_Site_with_Single_Sign_On.rst
-   Log_out_from_your_Site
-   getting-help.rst
-   Publish_your_Webpage.rst
-   Unpublish_your_Webpage.rst
-
 
 
 
