@@ -14,7 +14,6 @@ Editors in Chief
    editorrights.rst
    team.rst
    research.rst
-   monitor.rst
 
 
 
