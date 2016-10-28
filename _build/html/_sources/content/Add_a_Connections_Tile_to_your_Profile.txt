@@ -2,8 +2,6 @@
 Add a Connections Tile to your Profile
 ======================================================================================================
 
-.. note:: These user guides are being phased out and replaced with the guides on `Haiku Knowledge Base <https://fry-it.atlassian.net/wiki/display/HKB/Haiku+Knowledge+Base>`_
-
 
 The Connections Tile enables you to provide links to Research Groups, Colleges, other profiles and external institutions that you might be affiliated to. Once you have added a Connections Tile the Research Groups that you are a member of will be added automatically (after adding the Connections Tile you may have to refresh the page before you see your Research Group connections). 	
 
