@@ -27,27 +27,27 @@ Add new page
 
 Click **Add new** from the toolbar at the top of the screen and select Web Page.
 
-.. image:: images/add-a-new-course-skills-training/c0ad60f0-66a3-4ed2-bf10-d84fb3f96cba.png
+.. image:: images/add-a-new-course-skills-training/c5b6f32a-116d-4420-bc2f-cf078aa03fac.png
    :alt: 
-   :height: 459px
-   :width: 612px
+   :height: 581px
+   :width: 663px
    :align: center
 
 
 #. Enter the course title.
-#. Click the Extension tab.
+#. Click the embed icon. 
 
-.. image:: images/add-a-new-course-skills-training/e3722532-26b7-405f-b05b-8fc2cd298d3f.png
+.. image:: images/add-a-new-course-skills-training/84dafa11-ed23-4355-93e1-04abbac3641b.png
    :alt: 
-   :height: 220px
+   :height: 450px
    :width: 769px
    :align: center
 
 
 In the **IFrame** box paste: <iframe src="//skillstraining.medsci.ox.ac.uk/skills/skillscourse?courseId=36&bookable=True" frameborder="0" width="100%" height="1300" scrolling='no'></iframe>
 
-#. Change the number (36 in this case) to the ID of your new course.
-#. The height controls the space available for the iFrame on the course page. After saving your page you might find that you need to increase or reduce the available space. To do this change this number (start reducing or increasing by 100). 
+#. Change the number (36 in this case) to the ID of your new course.The height controls the space available for the iFrame on the course page. After saving your page you might find that you need to increase or reduce the available space. To do this change this number (start reducing or increasing by 100). 
+#. Click **Insert**.
 
 .. image:: images/add-a-new-course-skills-training/4c95739b-9f86-4d1e-bd91-93164bee79a3.png
    :alt: 

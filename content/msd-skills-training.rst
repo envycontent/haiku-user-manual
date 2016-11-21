@@ -6,7 +6,7 @@ MSD Skills Training
    :maxdepth: 2
 
    add-a-new-course-skills-training.rst
-   change-the-length-of-the-course-iframe.rst
+   edit-a-course-iframe.rst
    add-an-attachment-to-a-course-page.rst
    add-a-portlet-to-the-right-side-of-a-course-page.rst
    edit-a-right-hand-portlet.rst
