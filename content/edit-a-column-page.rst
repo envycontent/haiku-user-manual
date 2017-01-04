@@ -32,8 +32,8 @@ Make changes
 
 .. image:: images/edit-a-column-page/make-changes.png
    :alt: 
-   :height: 1097px
-   :width: 837px
+   :height: 1107px
+   :width: 847px
    :align: center
 
 

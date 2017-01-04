@@ -8,8 +8,8 @@ Edit page
 
 .. image:: images/add-an-image-to-a-column-page/edit-page.png
    :alt: 
-   :height: 254px
-   :width: 380px
+   :height: 264px
+   :width: 390px
    :align: center
 
 
@@ -20,8 +20,8 @@ Media section
 
 .. image:: images/add-an-image-to-a-column-page/media-section.png
    :alt: 
-   :height: 298px
-   :width: 537px
+   :height: 308px
+   :width: 547px
    :align: center
 
 
@@ -32,17 +32,17 @@ Upload image
 
 .. image:: images/add-an-image-to-a-column-page/upload-image.png
    :alt: 
-   :height: 273px
-   :width: 429px
+   :height: 283px
+   :width: 439px
    :align: center
 
 
-Click **Upload **to open the image upload box. 
+Click **Upload** to open the image upload box.
 
 .. image:: images/add-an-image-to-a-column-page/aae5c554-6a8f-45b4-9f64-2e16d9bad6fc.png
    :alt: 
-   :height: 243px
-   :width: 774px
+   :height: 253px
+   :width: 790px
    :align: center
 
 
@@ -51,8 +51,8 @@ Click **Upload **to open the image upload box.
 
 .. image:: images/add-an-image-to-a-column-page/5ea787de-bcc6-4220-a702-5b04e0ae1eee.png
    :alt: 
-   :height: 155px
-   :width: 790px
+   :height: 165px
+   :width: 800px
    :align: center
 
 
@@ -60,8 +60,8 @@ Scroll down the image upload box. Enter some descriptive text in the summary box
 
 .. image:: images/add-an-image-to-a-column-page/52024fbb-f902-431c-9ba2-261378aae64f.png
    :alt: 
-   :height: 212px
-   :width: 785px
+   :height: 222px
+   :width: 795px
    :align: center
 
 
@@ -70,8 +70,8 @@ Scroll down the image upload box. Enter some descriptive text in the summary box
 
 .. image:: images/add-an-image-to-a-column-page/6b178454-8dbd-4458-8035-a83cde42d8e3.png
    :alt: 
-   :height: 435px
-   :width: 782px
+   :height: 445px
+   :width: 792px
    :align: center
 
 
@@ -83,8 +83,8 @@ Save
 
 .. image:: images/add-an-image-to-a-column-page/save.png
    :alt: 
-   :height: 125px
-   :width: 313px
+   :height: 135px
+   :width: 323px
    :align: center
 
 
@@ -95,8 +95,8 @@ Your page
 
 .. image:: images/add-an-image-to-a-column-page/your-page.png
    :alt: 
-   :height: 574px
-   :width: 993px
+   :height: 584px
+   :width: 1003px
    :align: center
 
 
