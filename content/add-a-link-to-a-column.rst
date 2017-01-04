@@ -59,7 +59,7 @@ Link details
 
 
 #. Enter a title for the link
-#. Enter a description of the link in the **Summary** field. This will display under the link title :doc:`in the column, on pages listing the link and in search result <link-summary-field>`. Entering a description will help people assess whether this is the information they are looking for. 
+#. Enter a description of the link in the **Summary** field. This will display under the link title :doc:`in the column, on pages listing the link and in search results <link-summary-field>`. Entering a description will help people assess whether this is the information they are looking for. 
 #. Enter the web address for your link in the **URL address** field. 
 #. Click **Save** button
 
