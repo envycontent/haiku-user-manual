@@ -8,8 +8,8 @@ Go to your team page
 
 .. image:: images/add-a-link-to-a-column/go-to-your-team-page.png
    :alt: 
-   :height: 404px
-   :width: 544px
+   :height: 414px
+   :width: 554px
    :align: center
 
 
@@ -17,8 +17,8 @@ Click **Contents** on the toolbar at the top of your team page to see a list of 
 
 .. image:: images/add-a-link-to-a-column/3c2e05d8-b910-4012-bff9-44394e2e98c9.png
    :alt: 
-   :height: 459px
-   :width: 682px
+   :height: 469px
+   :width: 692px
    :align: center
 
 
@@ -29,8 +29,8 @@ Column contents
 
 .. image:: images/add-a-link-to-a-column/column-contents.png
    :alt: 
-   :height: 514px
-   :width: 691px
+   :height: 524px
+   :width: 701px
    :align: center
 
 
@@ -41,8 +41,8 @@ Add Link
 
 .. image:: images/add-a-link-to-a-column/add-link.png
    :alt: 
-   :height: 367px
-   :width: 602px
+   :height: 377px
+   :width: 612px
    :align: center
 
 
@@ -53,8 +53,8 @@ Link details
 
 .. image:: images/add-a-link-to-a-column/link-details.png
    :alt: 
-   :height: 605px
-   :width: 736px
+   :height: 615px
+   :width: 746px
    :align: center
 
 
@@ -68,8 +68,8 @@ Publish link
 
 .. image:: images/add-a-link-to-a-column/publish-link.png
    :alt: 
-   :height: 350px
-   :width: 459px
+   :height: 360px
+   :width: 469px
    :align: center
 
 
@@ -82,8 +82,8 @@ Published
 
 .. image:: images/add-a-link-to-a-column/published.png
    :alt: 
-   :height: 319px
-   :width: 403px
+   :height: 329px
+   :width: 413px
    :align: center
 
 
