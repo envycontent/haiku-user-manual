@@ -1,7 +1,7 @@
 Edit a Column Page
 ==================
 
-This shows you how to edit a page from one of the columns on your page. 
+This shows you how to edit a page from one of the columns on your team page. 
 
 Select page
 -----------
@@ -32,8 +32,8 @@ Make changes
 
 .. image:: images/edit-a-column-page/make-changes.png
    :alt: 
-   :height: 1485px
-   :width: 980px
+   :height: 1097px
+   :width: 837px
    :align: center
 
 
@@ -41,7 +41,6 @@ Make changes
 #. Short title - with the current set up of the columns this is only relevant when setting up a new page. 
 #. Page summary - this forms the first paragraph of your page and displays in a slightly larger font than the rest of the page. It will also display in the column under the page title and in search results. Adding a summary helps users assess whether this is the information they are looking for. 
 #. Edit the main content of your page. 
-#. You can add / replace an image which will display across the top of your page. This must be 702 x 336 pixels. 
 #. Click the **Save** button
 
 Further information
