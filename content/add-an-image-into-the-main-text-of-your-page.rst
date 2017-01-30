@@ -1,7 +1,7 @@
 Add an Image into the Main Text of your Page
 ============================================
 
-This shows you how to add an image into the main text content of your page. You need to upload the image to the Image Library first. See the :doc:`**Upload an Image to the Image Library** <Upload_an_Image_to_the_Image_Library.html>` guide if you need instructions on how to do this. 
+This shows you how to add an image into the main text content of your page. You need to upload the image to the Image Library first. See the :doc:`**Upload an Image to the Image Library** <upload-an-image-to-the-image-library.html>` guide if you need instructions on how to do this. 
 
 Edit page
 ---------
