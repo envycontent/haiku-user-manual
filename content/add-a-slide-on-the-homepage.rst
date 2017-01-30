@@ -1,9 +1,9 @@
 Add a Slide to the Homepage Slideshow
 =====================================
 
-Images for the slideshow on the Skills Training Homepage are stored at: `https://www.medsci.ox.ac.uk/images/homepage <https://www.medsci.ox.ac.uk/images/homepage>`_
+You can add a slide to the slideshow which links to another webpage. You need to upload the image first and then pull it onto the slideshow. This show you how to do this. 
 
-This shows you how to add a new slide to the slideshow. You need to upload the image first and then pull it onto the slideshow. 
+You can also pull a news items onto the slideshow - see the :doc:`Add a News Item to the Homepage Slideshow <add-a-news-item-to-the-homepage-slideshow.html>` guide on how to do this.  
 
 Upload image
 ------------
@@ -15,7 +15,7 @@ Upload image
    :align: center
 
 
-Go to the images section for the Skills Training slideshow: `https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow <https://www.medsci.ox.ac.uk/images/study/skills-training-slideshow>`_. 
+Go to the images section for the homepage - `https://www.medsci.ox.ac.uk/images/homepage <https://www.medsci.ox.ac.uk/images/homepage>`_. 
 
 To add a new image click **Add new...** from the toolbar at the top of the screen and select **Image**.
 
