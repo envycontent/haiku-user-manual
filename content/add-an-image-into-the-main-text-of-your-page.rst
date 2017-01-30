@@ -1,7 +1,7 @@
 Add an Image into the Main Text of your Page
 ============================================
 
-This shows you how to add an image into the main text content of your page. You need to upload the image to the Image Library first. See the **Upload an Image to the Image Library** guide if you need instructions on how to do this. 
+This shows you how to add an image into the main text content of your page. You need to upload the image to the Image Library first. See the :doc:`**Upload an Image to the Image Library** <Upload_an_Image_to_the_Image_Library.html>` guide if you need instructions on how to do this. 
 
 Edit page
 ---------
@@ -15,7 +15,7 @@ Edit page
 
 Go to the page where you would like to add the image.
 
-Click on Edit. 
+Click **Edit**. 
 
 .. image:: images/add-an-image-into-the-main-text-of-your-page/media_1402383761268.png
    :alt: 
@@ -26,9 +26,8 @@ Click on Edit.
 
 Scroll down the page to the text editor.
 
-1. Place your cursor where you would like to insert the image.
-
-2. Click on the camera icon.
+#. Place your cursor where you would like to insert the image.
+#. Click the camera icon.
 
 Image Library
 -------------
@@ -54,27 +53,11 @@ Select image
    :align: center
 
 
-1. Select the image you would like to add.
-
-2. Enter a description.
-
-3. Select the spacing around the image. 
-
-4. Select the image size.
-
-5. Click on OK.
-
-Position image on page
-----------------------
-
-.. image:: images/add-an-image-into-the-main-text-of-your-page/position-image-on-page.png
-   :alt: 
-   :height: 370px
-   :width: 507px
-   :align: center
-
-
-To position the image right click on the image and go to **Alignment**. Select where you would like the image to be positioned.
+#. Select the image you would like to add.
+#. Enter a description.
+#. Select the position of the image. Ideally have all images on the right side of the page to have a consistent look and feel to pages. 
+#. Select the image size. If selecting one of the . will resize on the width of the page not
+#. Click OK.
 
 Save the page
 -------------
@@ -86,4 +69,4 @@ Save the page
    :align: center
 
 
-Click on the **Save** button.
+Click the **Save** button.
