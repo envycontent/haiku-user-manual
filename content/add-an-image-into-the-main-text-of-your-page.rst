@@ -56,7 +56,7 @@ Select image
 #. Select the image you would like to add.
 #. Enter a description.
 #. Select the position of the image. Ideally have all images on the right side of the page to have a consistent look and feel to pages. 
-#. Select the image size. If selecting one of the . will resize on the width of the page not
+#. Select the image size. If selecting one of the predefined sizes the image will resize on the width of the image rather than the height. 
 #. Click OK.
 
 Save the page

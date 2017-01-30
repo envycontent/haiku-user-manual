@@ -1,7 +1,7 @@
 Add a Slide to the Homepage Slideshow
 =====================================
 
-You can add a slide to the slideshow which links to another webpage. You need to upload the image first and then pull it onto the slideshow. This show you how to do this. 
+You can add a slide to the slideshow which links to another webpage. You need to upload the image first and then pull it onto the slideshow. This shows you how to do this. 
 
 You can also pull a news items onto the slideshow - see the :doc:`Add a News Item to the Homepage Slideshow <add-a-news-item-to-the-homepage-slideshow.html>` guide on how to do this.  
 
@@ -90,3 +90,8 @@ Hovering over the slideshow will bring up an **Edit** button in the top left cor
 
 #. Scroll to the bottom of the window and click  the **x** next to the slide you would like to delete. 
 #. Click **Save**.
+
+Copyright information
+---------------------
+
+The copyright information doesn't currently pull onto the slide. There is a rich text tile in the bottom left corner of the homepage. If an image needs copyright information put this here. 
