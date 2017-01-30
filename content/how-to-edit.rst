@@ -17,6 +17,7 @@ How to edit...
    msd-teams.rst
    msd-graduateschool.rst
    msd-skills-training.rst
+   msd-site-administrators.rst
 
 
 
