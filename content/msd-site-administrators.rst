@@ -10,6 +10,7 @@ MSD Site Administrators
    change-the-order---publication-date-of-a-news-item
    add-image-news-item.rst
    add-an-image-into-the-main-text.rst
+   change-slide-on-the-homepage.rst
 
 
 
