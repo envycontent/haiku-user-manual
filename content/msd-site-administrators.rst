@@ -11,7 +11,6 @@ MSD Site Administrators
    add-image-news-item.rst
    add-an-image-into-the-main-text.rst
    add-a-slide-on-the-homepage.rst
-   add-a-news-item-to-the-homepage-slideshow.rst
    change-the-order-of-slides-on-the-slideshow.rst
 
 
