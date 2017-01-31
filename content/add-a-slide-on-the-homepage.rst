@@ -3,7 +3,7 @@ Add a Slide to the Homepage Slideshow
 
 You can add a slide to the slideshow which links to another webpage. You need to upload the image first and then pull it onto the slideshow. This shows you how to do this. 
 
-You can also pull a news items onto the slideshow - see the :doc:`Add a News Item to the Homepage Slideshow <add-a-news-item-to-the-homepage-slideshow.html>` guide on how to do this.  
+You can also pull a news items onto the slideshow - see the `Add a News Item to the Homepage Slideshow <http://haiku-user-guide.readthedocs.io/en/latest/content/add-a-news-item-to-the-homepage-slideshow.html>`_ guide on how to do this.  
 
 Upload image
 ------------
