@@ -25,10 +25,10 @@ Add news item
    :align: center
 
 
-You will find the news item in either:
+You will find the news item either:
 
-#. The list of recent items if it was added recently, or
-#. Search for the item by title. 
+#. In the list of recent items if it was added recently, or
+#. By searching for the item by title. 
 
 .. image:: images/add-a-news-item-to-the-homepage-slideshow/76af62e5-1483-421b-9ad2-72ae3d9ee584.png
    :alt: 
